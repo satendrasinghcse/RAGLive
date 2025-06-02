@@ -1,0 +1,1982 @@
+{
+  "count": 73,
+  "description": "Documents published on 04/09/2025",
+  "total_pages": 1,
+  "results": [
+    {
+      "title": "Regulatory Guide: Standard Format and Content of Decommissioning Plans for Materials Licensees",
+      "type": "Rule",
+      "abstract": "The U.S. Nuclear Regulatory Commission (NRC) is withdrawing Regulatory Guide (RG) 3.65, \"Standard Format and Content of Decommissioning Plans for Materials Licensees.\" This RG is being withdrawn because it is not needed to endorse NUREG-1757, \"Consolidated Decommissioning Guidance: Decommissioning Process for Materials Licensees,\" Volume 1, \"Decommissioning Process for Materials Licensees.\" NUREG-1757 provides the most current guidance on decommissioning nuclear facilities to support license termination for applicants, licensees, and NRC staff reviewers.",
+      "document_number": "2025-06107",
+      "html_url": "https://www.federalregister.gov/documents/2025/04/09/2025-06107/regulatory-guide-standard-format-and-content-of-decommissioning-plans-for-materials-licensees",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-04-09/pdf/2025-06107.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-06107.pdf?1744116314",
+      "publication_date": "2025-04-09",
+      "agencies": [
+        {
+          "raw_name": "NUCLEAR REGULATORY COMMISSION",
+          "name": "Nuclear Regulatory Commission",
+          "id": 383,
+          "url": "https://www.federalregister.gov/agencies/nuclear-regulatory-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/383",
+          "parent_id": null,
+          "slug": "nuclear-regulatory-commission"
+        }
+      ],
+      "excerpts": "The U.S. Nuclear Regulatory Commission (NRC) is withdrawing Regulatory Guide (RG) 3.65, \"Standard Format and Content of Decommissioning Plans for Materials Licensees.\" This RG is being withdrawn because it is not needed to endorse NUREG-1757,..."
+    },
+    {
+      "title": "Allocation of Assets in Single-Employer Plans; Interest Assumptions for Valuing Benefits",
+      "type": "Rule",
+      "abstract": null,
+      "document_number": "C1-2025-05531",
+      "html_url": "https://www.federalregister.gov/documents/2025/04/09/C1-2025-05531/allocation-of-assets-in-single-employer-plans-interest-assumptions-for-valuing-benefits",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-04-09/pdf/C1-2025-05531.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/C1-2025-05531.pdf?1744116314",
+      "publication_date": "2025-04-09",
+      "agencies": [
+        {
+          "raw_name": "PENSION BENEFIT GUARANTY CORPORATION",
+          "name": "Pension Benefit Guaranty Corporation",
+          "id": 405,
+          "url": "https://www.federalregister.gov/agencies/pension-benefit-guaranty-corporation",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/405",
+          "parent_id": null,
+          "slug": "pension-benefit-guaranty-corporation"
+        }
+      ],
+      "excerpts": null
+    },
+    {
+      "title": "Radio Broadcasting Services; Koloa, Hawaii and Waimea, Hawaii",
+      "type": "Rule",
+      "abstract": "This document amends the Table of FM Allotments, of the Federal Communications Commission's (Commission) rules, by substituting Channel 272A for vacant Channel 264A at Koloa, Hawaii. The staff engineering analysis determines that Channel 272A at Koloa can be allotted consistent with the minimum distance separation requirements of the Commission's rules with a site restriction of 8.3 kilometers (5.2 miles) northwest of the community. The reference coordinates are 21-58-24 NL and 159-29-45 WL.",
+      "document_number": "2025-06076",
+      "html_url": "https://www.federalregister.gov/documents/2025/04/09/2025-06076/radio-broadcasting-services-koloa-hawaii-and-waimea-hawaii",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-04-09/pdf/2025-06076.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-06076.pdf?1744116311",
+      "publication_date": "2025-04-09",
+      "agencies": [
+        {
+          "raw_name": "FEDERAL COMMUNICATIONS COMMISSION",
+          "name": "Federal Communications Commission",
+          "id": 161,
+          "url": "https://www.federalregister.gov/agencies/federal-communications-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/161",
+          "parent_id": null,
+          "slug": "federal-communications-commission"
+        }
+      ],
+      "excerpts": "This document amends the Table of FM Allotments, of the Federal Communications Commission's (Commission) rules, by substituting Channel 272A for vacant Channel 264A at Koloa, Hawaii. The staff engineering analysis determines that Channel 272A at Koloa..."
+    },
+    {
+      "title": "Air Plan Approval; Louisiana; Interstate Transport Requirements for the 2010 SO2 NAAQS",
+      "type": "Proposed Rule",
+      "abstract": "Pursuant to the Federal Clean Air Act (CAA or the Act), the Environmental Protection Agency (EPA) is proposing to approve the portion of the State Implementation Plan (SIP) submittal from the State of Louisiana demonstrating that the State satisfies the interstate transport requirements of section 110(a)(2)(D)(i)(I), also known as the \"good neighbor\" provision of the CAA, for the 2010 1-hour sulfur dioxide (SO<INF>2</INF>) primary National Ambient Air Quality Standard (NAAQS). The good neighbor provision requires each State's implementation plan contain adequate provisions prohibiting the interstate transport of air pollution in amounts that will contribute significantly to nonattainment, or interfere with maintenance, of a NAAQS in any other State.",
+      "document_number": "2025-05927",
+      "html_url": "https://www.federalregister.gov/documents/2025/04/09/2025-05927/air-plan-approval-louisiana-interstate-transport-requirements-for-the-2010-so2-naaqs",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-04-09/pdf/2025-05927.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-05927.pdf?1744116306",
+      "publication_date": "2025-04-09",
+      "agencies": [
+        {
+          "raw_name": "ENVIRONMENTAL PROTECTION AGENCY",
+          "name": "Environmental Protection Agency",
+          "id": 145,
+          "url": "https://www.federalregister.gov/agencies/environmental-protection-agency",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/145",
+          "parent_id": null,
+          "slug": "environmental-protection-agency"
+        }
+      ],
+      "excerpts": "Pursuant to the Federal Clean Air Act (CAA or the Act), the Environmental Protection Agency (EPA) is proposing to approve the portion of the State Implementation Plan (SIP) submittal from the State of Louisiana demonstrating that the State satisfies..."
+    },
+    {
+      "title": "Directive Publication Notice",
+      "type": "Notice",
+      "abstract": "The Forest Service (Forest Service or Agency), U.S. Department of Agriculture, provides direction to employees through issuances in its Directive System, comprised of the Forest Service Manual and Forest Service Handbooks. The Agency must provide public notice of and opportunity to comment on directives that formulate standards, criteria, or guidelines applicable to Forest Service programs. Once per quarter, the Agency provides advance notice of proposed and interim directives that will be made available for public comment during the next three months; proposed and interim directives that were previously published for public comment but not yet finalized and issued; and notice of final directives issued in the last three months.",
+      "document_number": "2025-06098",
+      "html_url": "https://www.federalregister.gov/documents/2025/04/09/2025-06098/directive-publication-notice",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-04-09/pdf/2025-06098.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-06098.pdf?1744116313",
+      "publication_date": "2025-04-09",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF AGRICULTURE",
+          "name": "Agriculture Department",
+          "id": 12,
+          "url": "https://www.federalregister.gov/agencies/agriculture-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/12",
+          "parent_id": null,
+          "slug": "agriculture-department"
+        },
+        {
+          "raw_name": "Forest Service",
+          "name": "Forest Service",
+          "id": 209,
+          "url": "https://www.federalregister.gov/agencies/forest-service",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/209",
+          "parent_id": 12,
+          "slug": "forest-service"
+        }
+      ],
+      "excerpts": "The Forest Service (Forest Service or Agency), U.S. Department of Agriculture, provides direction to employees through issuances in its Directive System, comprised of the Forest Service Manual and Forest Service Handbooks. The Agency must provide..."
+    },
+    {
+      "title": "Notice of Public Meeting of the Montana Advisory Committee to the U.S. Commission on Civil Rights",
+      "type": "Notice",
+      "abstract": "Notice is hereby given, pursuant to the provisions of the rules and regulations of the U.S. Commission on Civil Rights (Commission) and the Federal Advisory Committee Act, that the Montana Advisory Committee (Committee) to the U.S. Commission on Civil Rights will hold a public business meeting via Zoom at 3 p.m. MT on Wednesday, May 21, 2025.",
+      "document_number": "2025-06032",
+      "html_url": "https://www.federalregister.gov/documents/2025/04/09/2025-06032/notice-of-public-meeting-of-the-montana-advisory-committee-to-the-us-commission-on-civil-rights",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-04-09/pdf/2025-06032.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-06032.pdf?1744116306",
+      "publication_date": "2025-04-09",
+      "agencies": [
+        {
+          "raw_name": "COMMISSION ON CIVIL RIGHTS",
+          "name": "Civil Rights Commission",
+          "id": 52,
+          "url": "https://www.federalregister.gov/agencies/civil-rights-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/52",
+          "parent_id": null,
+          "slug": "civil-rights-commission"
+        }
+      ],
+      "excerpts": "Notice is hereby given, pursuant to the provisions of the rules and regulations of the U.S. Commission on Civil Rights (Commission) and the Federal Advisory Committee Act, that the Montana Advisory Committee (Committee) to the U.S. Commission on Civil..."
+    },
+    {
+      "title": "Notice of Public Meeting of the Maryland Advisory Committee to the U.S. Commission on Civil Rights",
+      "type": "Notice",
+      "abstract": "Notice is hereby given, pursuant to the provisions of the rules and regulations of the U.S. Commission on Civil Rights (Commission) and the Federal Advisory Committee Act, that the Maryland Advisory Committee (Committee) to the U.S. Commission on Civil Rights will a public meeting via Zoom. The purpose is for the committee to meet as a newly appointed committee.",
+      "document_number": "2025-06042",
+      "html_url": "https://www.federalregister.gov/documents/2025/04/09/2025-06042/notice-of-public-meeting-of-the-maryland-advisory-committee-to-the-us-commission-on-civil-rights",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-04-09/pdf/2025-06042.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-06042.pdf?1744116308",
+      "publication_date": "2025-04-09",
+      "agencies": [
+        {
+          "raw_name": "COMMISSION ON CIVIL RIGHTS",
+          "name": "Civil Rights Commission",
+          "id": 52,
+          "url": "https://www.federalregister.gov/agencies/civil-rights-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/52",
+          "parent_id": null,
+          "slug": "civil-rights-commission"
+        }
+      ],
+      "excerpts": "Notice is hereby given, pursuant to the provisions of the rules and regulations of the U.S. Commission on Civil Rights (Commission) and the Federal Advisory Committee Act, that the Maryland Advisory Committee (Committee) to the U.S. Commission on Civil..."
+    },
+    {
+      "title": "Foreign-Trade Zone (FTZ) 50, Notification of Proposed Production Activity; Logitech; (Audio, Visual, and Gaming Equipment); Ontario, California",
+      "type": "Notice",
+      "abstract": null,
+      "document_number": "2025-06057",
+      "html_url": "https://www.federalregister.gov/documents/2025/04/09/2025-06057/foreign-trade-zone-ftz-50-notification-of-proposed-production-activity-logitech-audio-visual-and",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-04-09/pdf/2025-06057.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-06057.pdf?1744116309",
+      "publication_date": "2025-04-09",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF COMMERCE",
+          "name": "Commerce Department",
+          "id": 54,
+          "url": "https://www.federalregister.gov/agencies/commerce-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+          "parent_id": null,
+          "slug": "commerce-department"
+        },
+        {
+          "raw_name": "Foreign-Trade Zones Board",
+          "name": "Foreign-Trade Zones Board",
+          "id": 208,
+          "url": "https://www.federalregister.gov/agencies/foreign-trade-zones-board",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/208",
+          "parent_id": 54,
+          "slug": "foreign-trade-zones-board"
+        }
+      ],
+      "excerpts": null
+    },
+    {
+      "title": "Diffusion-Annealed, Nickel-Plated Flat-Rolled Steel Products From Japan: Continuation of Antidumping Duty Order",
+      "type": "Notice",
+      "abstract": "As a result of the determinations by the U.S. Department of Commerce (Commerce) and the U.S. International Trade Commission (ITC) that revocation of the antidumping duty (AD) order on diffusion- annealed, nickel-plated flat rolled steel products (nickel-plated steel products) from Japan would likely lead to the continuation or recurrence of dumping and material injury to an industry in the United States, Commerce is publishing a notice of continuation of this AD order.",
+      "document_number": "2025-06103",
+      "html_url": "https://www.federalregister.gov/documents/2025/04/09/2025-06103/diffusion-annealed-nickel-plated-flat-rolled-steel-products-from-japan-continuation-of-antidumping",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-04-09/pdf/2025-06103.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-06103.pdf?1744116314",
+      "publication_date": "2025-04-09",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF COMMERCE",
+          "name": "Commerce Department",
+          "id": 54,
+          "url": "https://www.federalregister.gov/agencies/commerce-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+          "parent_id": null,
+          "slug": "commerce-department"
+        },
+        {
+          "raw_name": "International Trade Administration",
+          "name": "International Trade Administration",
+          "id": 261,
+          "url": "https://www.federalregister.gov/agencies/international-trade-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/261",
+          "parent_id": 54,
+          "slug": "international-trade-administration"
+        }
+      ],
+      "excerpts": "As a result of the determinations by the U.S. Department of Commerce (Commerce) and the U.S. International Trade Commission (ITC) that revocation of the antidumping duty (AD) order on diffusion- annealed, nickel-plated flat rolled steel products..."
+    },
+    {
+      "title": "Melamine From India: Antidumping and Countervailing Duty Orders",
+      "type": "Notice",
+      "abstract": "Based on affirmative final determinations by the U.S. Department of Commerce (Commerce) and the U.S. International Trade Commission (ITC), Commerce is issuing antidumping duty (AD) and countervailing duty (CVD) orders on melamine from India.",
+      "document_number": "2025-06100",
+      "html_url": "https://www.federalregister.gov/documents/2025/04/09/2025-06100/melamine-from-india-antidumping-and-countervailing-duty-orders",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-04-09/pdf/2025-06100.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-06100.pdf?1744116313",
+      "publication_date": "2025-04-09",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF COMMERCE",
+          "name": "Commerce Department",
+          "id": 54,
+          "url": "https://www.federalregister.gov/agencies/commerce-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+          "parent_id": null,
+          "slug": "commerce-department"
+        },
+        {
+          "raw_name": "International Trade Administration",
+          "name": "International Trade Administration",
+          "id": 261,
+          "url": "https://www.federalregister.gov/agencies/international-trade-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/261",
+          "parent_id": 54,
+          "slug": "international-trade-administration"
+        }
+      ],
+      "excerpts": "Based on affirmative final determinations by the U.S. Department of Commerce (Commerce) and the U.S. International Trade Commission (ITC), Commerce is issuing antidumping duty (AD) and countervailing duty (CVD) orders on melamine from India."
+    },
+    {
+      "title": "Certain Softwood Lumber Products From Canada: Preliminary Results and Partial Rescission of Countervailing Duty Administrative Review; 2023",
+      "type": "Notice",
+      "abstract": "The U.S. Department of Commerce (Commerce) preliminarily determines that countervailable subsidies were being provided to producers and exporters of certain softwood lumber products (softwood lumber) from Canada during the period of review (POR), January 1, 2023, through December 31, 2023. Commerce is also rescinding this review with respect to 46 companies. Interested parties are invited to comment on these preliminary results.",
+      "document_number": "2025-06099",
+      "html_url": "https://www.federalregister.gov/documents/2025/04/09/2025-06099/certain-softwood-lumber-products-from-canada-preliminary-results-and-partial-rescission-of",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-04-09/pdf/2025-06099.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-06099.pdf?1744116313",
+      "publication_date": "2025-04-09",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF COMMERCE",
+          "name": "Commerce Department",
+          "id": 54,
+          "url": "https://www.federalregister.gov/agencies/commerce-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+          "parent_id": null,
+          "slug": "commerce-department"
+        },
+        {
+          "raw_name": "International Trade Administration",
+          "name": "International Trade Administration",
+          "id": 261,
+          "url": "https://www.federalregister.gov/agencies/international-trade-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/261",
+          "parent_id": 54,
+          "slug": "international-trade-administration"
+        }
+      ],
+      "excerpts": "The U.S. Department of Commerce (Commerce) preliminarily determines that countervailable subsidies were being provided to producers and exporters of certain softwood lumber products (softwood lumber) from Canada during the period of review (POR),..."
+    },
+    {
+      "title": "Certain Superabsorbent Polymers from the Republic of Korea: Preliminary Results of Antidumping Duty Administrative Review; 2022-2023",
+      "type": "Notice",
+      "abstract": "The U.S. Department of Commerce (Commerce) is conducting an administrative review of the antidumping duty (AD) order on certain superabsorbent polymers (SAP) from the Republic of Korea (Korea). The period of review (POR) is June 7, 2022, through November 30, 2023. Commerce preliminarily determines that sales of subject merchandise have not been made below normal value (NV) by LG Chem, Ltd. (LGC) during the POR. Interested Parties are invited to comment on these preliminary results.",
+      "document_number": "2025-06102",
+      "html_url": "https://www.federalregister.gov/documents/2025/04/09/2025-06102/certain-superabsorbent-polymers-from-the-republic-of-korea-preliminary-results-of-antidumping-duty",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-04-09/pdf/2025-06102.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-06102.pdf?1744116314",
+      "publication_date": "2025-04-09",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF COMMERCE",
+          "name": "Commerce Department",
+          "id": 54,
+          "url": "https://www.federalregister.gov/agencies/commerce-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+          "parent_id": null,
+          "slug": "commerce-department"
+        },
+        {
+          "raw_name": "International Trade Administration",
+          "name": "International Trade Administration",
+          "id": 261,
+          "url": "https://www.federalregister.gov/agencies/international-trade-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/261",
+          "parent_id": 54,
+          "slug": "international-trade-administration"
+        }
+      ],
+      "excerpts": "The U.S. Department of Commerce (Commerce) is conducting an administrative review of the antidumping duty (AD) order on certain superabsorbent polymers (SAP) from the Republic of Korea (Korea). The period of review (POR) is June 7, 2022, through..."
+    },
+    {
+      "title": "Fisheries of the Gulf of America; Southeast Data, Assessment, and Review (SEDAR); Public Meeting; Cancellation",
+      "type": "Notice",
+      "abstract": "The SEDAR 98 assessment process for Gulf of America red snapper will consist of a Data Workshop, a series of assessment webinars, and a Review Workshop. See SUPPLEMENTARY INFORMATION.",
+      "document_number": "2025-06072",
+      "html_url": "https://www.federalregister.gov/documents/2025/04/09/2025-06072/fisheries-of-the-gulf-of-america-southeast-data-assessment-and-review-sedar-public-meeting",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-04-09/pdf/2025-06072.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-06072.pdf?1744116310",
+      "publication_date": "2025-04-09",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF COMMERCE",
+          "name": "Commerce Department",
+          "id": 54,
+          "url": "https://www.federalregister.gov/agencies/commerce-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+          "parent_id": null,
+          "slug": "commerce-department"
+        },
+        {
+          "raw_name": "National Oceanic and Atmospheric Administration",
+          "name": "National Oceanic and Atmospheric Administration",
+          "id": 361,
+          "url": "https://www.federalregister.gov/agencies/national-oceanic-and-atmospheric-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/361",
+          "parent_id": 54,
+          "slug": "national-oceanic-and-atmospheric-administration"
+        }
+      ],
+      "excerpts": "The SEDAR 98 assessment process for Gulf of America red snapper will consist of a Data Workshop, a series of assessment webinars, and a Review Workshop. See SUPPLEMENTARY INFORMATION."
+    },
+    {
+      "title": "National Oceanic and Atmospheric Administration Science Advisory Board",
+      "type": "Notice",
+      "abstract": "This notice sets forth the schedule and proposed agenda for a meeting of the Science Advisory Board (SAB). The members will discuss issues outlined in the section on Matters to be considered.",
+      "document_number": "2025-06059",
+      "html_url": "https://www.federalregister.gov/documents/2025/04/09/2025-06059/national-oceanic-and-atmospheric-administration-science-advisory-board",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-04-09/pdf/2025-06059.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-06059.pdf?1744116310",
+      "publication_date": "2025-04-09",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF COMMERCE",
+          "name": "Commerce Department",
+          "id": 54,
+          "url": "https://www.federalregister.gov/agencies/commerce-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+          "parent_id": null,
+          "slug": "commerce-department"
+        }
+      ],
+      "excerpts": "This notice sets forth the schedule and proposed agenda for a meeting of the Science Advisory Board (SAB). The members will discuss issues outlined in the section on Matters to be considered."
+    },
+    {
+      "title": "Agency Information Collection Activities; Comment Request; Carl D. Perkins Career and Technical Education Act State Plan Guide",
+      "type": "Notice",
+      "abstract": "In accordance with the Paperwork Reduction Act (PRA) of 1995, the Department is proposing a revision of a currently approved information collection request (ICR).",
+      "document_number": "2025-06040",
+      "html_url": "https://www.federalregister.gov/documents/2025/04/09/2025-06040/agency-information-collection-activities-comment-request-carl-d-perkins-career-and-technical",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-04-09/pdf/2025-06040.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-06040.pdf?1744116308",
+      "publication_date": "2025-04-09",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF EDUCATION",
+          "name": "Education Department",
+          "id": 126,
+          "url": "https://www.federalregister.gov/agencies/education-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/126",
+          "parent_id": null,
+          "slug": "education-department"
+        }
+      ],
+      "excerpts": "In accordance with the Paperwork Reduction Act (PRA) of 1995, the Department is proposing a revision of a currently approved information collection request (ICR)."
+    },
+    {
+      "title": "Agency Information Collection Activities; Comment Request; Consolidated Annual Report (CAR) for the Carl D. Perkins Career and Technical Education Act of 2006",
+      "type": "Notice",
+      "abstract": "In accordance with the Paperwork Reduction Act (PRA) of 1995, the Department is proposing a revision of a currently approved information collection request (ICR).",
+      "document_number": "2025-06039",
+      "html_url": "https://www.federalregister.gov/documents/2025/04/09/2025-06039/agency-information-collection-activities-comment-request-consolidated-annual-report-car-for-the-carl",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-04-09/pdf/2025-06039.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-06039.pdf?1744116307",
+      "publication_date": "2025-04-09",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF EDUCATION",
+          "name": "Education Department",
+          "id": 126,
+          "url": "https://www.federalregister.gov/agencies/education-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/126",
+          "parent_id": null,
+          "slug": "education-department"
+        }
+      ],
+      "excerpts": "In accordance with the Paperwork Reduction Act (PRA) of 1995, the Department is proposing a revision of a currently approved information collection request (ICR)."
+    },
+    {
+      "title": "Agency Information Collection Extension",
+      "type": "Notice",
+      "abstract": "The Department of Energy (DOE), pursuant to the Paperwork Reduction Act of 1995, intends to extend for three years, an information collection request with the Office of Management and Budget (OMB).",
+      "document_number": "2025-06064",
+      "html_url": "https://www.federalregister.gov/documents/2025/04/09/2025-06064/agency-information-collection-extension",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-04-09/pdf/2025-06064.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-06064.pdf?1744116310",
+      "publication_date": "2025-04-09",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF ENERGY",
+          "name": "Energy Department",
+          "id": 136,
+          "url": "https://www.federalregister.gov/agencies/energy-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/136",
+          "parent_id": null,
+          "slug": "energy-department"
+        }
+      ],
+      "excerpts": "The Department of Energy (DOE), pursuant to the Paperwork Reduction Act of 1995, intends to extend for three years, an information collection request with the Office of Management and Budget (OMB)."
+    },
+    {
+      "title": "Combined Notice of Filings #1",
+      "type": "Notice",
+      "abstract": null,
+      "document_number": "2025-06081",
+      "html_url": "https://www.federalregister.gov/documents/2025/04/09/2025-06081/combined-notice-of-filings-1",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-04-09/pdf/2025-06081.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-06081.pdf?1744116311",
+      "publication_date": "2025-04-09",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF ENERGY",
+          "name": "Energy Department",
+          "id": 136,
+          "url": "https://www.federalregister.gov/agencies/energy-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/136",
+          "parent_id": null,
+          "slug": "energy-department"
+        },
+        {
+          "raw_name": "Federal Energy Regulatory Commission",
+          "name": "Federal Energy Regulatory Commission",
+          "id": 167,
+          "url": "https://www.federalregister.gov/agencies/federal-energy-regulatory-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/167",
+          "parent_id": 136,
+          "slug": "federal-energy-regulatory-commission"
+        }
+      ],
+      "excerpts": null
+    },
+    {
+      "title": "Algonquin Gas Transmission, LLC; Notice of Scoping Period Requesting Comments on Environmental Issues for the Planned Cape Cod Canal Bridge Relocation Project, and Notice of Public Scoping Session",
+      "type": "Notice",
+      "abstract": null,
+      "document_number": "2025-06071",
+      "html_url": "https://www.federalregister.gov/documents/2025/04/09/2025-06071/algonquin-gas-transmission-llc-notice-of-scoping-period-requesting-comments-on-environmental-issues",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-04-09/pdf/2025-06071.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-06071.pdf?1744116310",
+      "publication_date": "2025-04-09",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF ENERGY",
+          "name": "Energy Department",
+          "id": 136,
+          "url": "https://www.federalregister.gov/agencies/energy-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/136",
+          "parent_id": null,
+          "slug": "energy-department"
+        },
+        {
+          "raw_name": "Federal Energy Regulatory Commission",
+          "name": "Federal Energy Regulatory Commission",
+          "id": 167,
+          "url": "https://www.federalregister.gov/agencies/federal-energy-regulatory-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/167",
+          "parent_id": 136,
+          "slug": "federal-energy-regulatory-commission"
+        }
+      ],
+      "excerpts": null
+    },
+    {
+      "title": "Revisions to the Filing Process for Commission Forms; Notice of FERC Form No. 60 Taxonomy Update",
+      "type": "Notice",
+      "abstract": null,
+      "document_number": "2025-06080",
+      "html_url": "https://www.federalregister.gov/documents/2025/04/09/2025-06080/revisions-to-the-filing-process-for-commission-forms-notice-of-ferc-form-no-60-taxonomy-update",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-04-09/pdf/2025-06080.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-06080.pdf?1744116311",
+      "publication_date": "2025-04-09",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF ENERGY",
+          "name": "Energy Department",
+          "id": 136,
+          "url": "https://www.federalregister.gov/agencies/energy-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/136",
+          "parent_id": null,
+          "slug": "energy-department"
+        },
+        {
+          "raw_name": "Federal Energy Regulatory Commission",
+          "name": "Federal Energy Regulatory Commission",
+          "id": 167,
+          "url": "https://www.federalregister.gov/agencies/federal-energy-regulatory-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/167",
+          "parent_id": 136,
+          "slug": "federal-energy-regulatory-commission"
+        }
+      ],
+      "excerpts": null
+    },
+    {
+      "title": "Combined Notice of Filings",
+      "type": "Notice",
+      "abstract": null,
+      "document_number": "2025-06083",
+      "html_url": "https://www.federalregister.gov/documents/2025/04/09/2025-06083/combined-notice-of-filings",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-04-09/pdf/2025-06083.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-06083.pdf?1744116312",
+      "publication_date": "2025-04-09",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF ENERGY",
+          "name": "Energy Department",
+          "id": 136,
+          "url": "https://www.federalregister.gov/agencies/energy-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/136",
+          "parent_id": null,
+          "slug": "energy-department"
+        },
+        {
+          "raw_name": "Federal Energy Regulatory Commission",
+          "name": "Federal Energy Regulatory Commission",
+          "id": 167,
+          "url": "https://www.federalregister.gov/agencies/federal-energy-regulatory-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/167",
+          "parent_id": 136,
+          "slug": "federal-energy-regulatory-commission"
+        }
+      ],
+      "excerpts": null
+    },
+    {
+      "title": "Notice of Application of Transfer of License and Soliciting Comments, Motions To Intervene, and Protests: Southern California Edison Company; Lower Tule Hydro, LLC",
+      "type": "Notice",
+      "abstract": null,
+      "document_number": "2025-06069",
+      "html_url": "https://www.federalregister.gov/documents/2025/04/09/2025-06069/notice-of-application-of-transfer-of-license-and-soliciting-comments-motions-to-intervene-and",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-04-09/pdf/2025-06069.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-06069.pdf?1744116310",
+      "publication_date": "2025-04-09",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF ENERGY",
+          "name": "Energy Department",
+          "id": 136,
+          "url": "https://www.federalregister.gov/agencies/energy-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/136",
+          "parent_id": null,
+          "slug": "energy-department"
+        },
+        {
+          "raw_name": "Federal Energy Regulatory Commission",
+          "name": "Federal Energy Regulatory Commission",
+          "id": 167,
+          "url": "https://www.federalregister.gov/agencies/federal-energy-regulatory-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/167",
+          "parent_id": 136,
+          "slug": "federal-energy-regulatory-commission"
+        }
+      ],
+      "excerpts": null
+    },
+    {
+      "title": "Notice of Application Tendered for Filing With the Commission and Soliciting Additional Study Requests and Establishing Procedural Schedule for Relicensing and a Deadline for Submission of Final Amendments; Stone Ridge Hydro, LLC",
+      "type": "Notice",
+      "abstract": null,
+      "document_number": "2025-06073",
+      "html_url": "https://www.federalregister.gov/documents/2025/04/09/2025-06073/notice-of-application-tendered-for-filing-with-the-commission-and-soliciting-additional-study",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-04-09/pdf/2025-06073.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-06073.pdf?1744116311",
+      "publication_date": "2025-04-09",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF ENERGY",
+          "name": "Energy Department",
+          "id": 136,
+          "url": "https://www.federalregister.gov/agencies/energy-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/136",
+          "parent_id": null,
+          "slug": "energy-department"
+        },
+        {
+          "raw_name": "Federal Energy Regulatory Commission",
+          "name": "Federal Energy Regulatory Commission",
+          "id": 167,
+          "url": "https://www.federalregister.gov/agencies/federal-energy-regulatory-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/167",
+          "parent_id": 136,
+          "slug": "federal-energy-regulatory-commission"
+        }
+      ],
+      "excerpts": null
+    },
+    {
+      "title": "Pacific Gas and Electric Company; Notice of Availability of Environmental Assessment",
+      "type": "Notice",
+      "abstract": null,
+      "document_number": "2025-06074",
+      "html_url": "https://www.federalregister.gov/documents/2025/04/09/2025-06074/pacific-gas-and-electric-company-notice-of-availability-of-environmental-assessment",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-04-09/pdf/2025-06074.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-06074.pdf?1744116311",
+      "publication_date": "2025-04-09",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF ENERGY",
+          "name": "Energy Department",
+          "id": 136,
+          "url": "https://www.federalregister.gov/agencies/energy-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/136",
+          "parent_id": null,
+          "slug": "energy-department"
+        },
+        {
+          "raw_name": "Federal Energy Regulatory Commission",
+          "name": "Federal Energy Regulatory Commission",
+          "id": 167,
+          "url": "https://www.federalregister.gov/agencies/federal-energy-regulatory-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/167",
+          "parent_id": 136,
+          "slug": "federal-energy-regulatory-commission"
+        }
+      ],
+      "excerpts": null
+    },
+    {
+      "title": "Information Collection Being Reviewed by the Federal Communications Commission Under Delegated Authority",
+      "type": "Notice",
+      "abstract": "As part of its continuing effort to reduce paperwork burdens, and as required by the Paperwork Reduction Act (PRA) of 1995, the Federal Communications Commission (FCC or Commission) invites the general public and other Federal agencies to take this opportunity to comment on the following information collections. Comments are requested concerning: whether the proposed collection of information is necessary for the proper performance of the functions of the Commission, including whether the information shall have practical utility; the accuracy of the Commission's burden estimate; ways to enhance the quality, utility, and clarity of the information collected; ways to minimize the burden of the collection of information on the respondents, including the use of automated collection burden on small business concerns with fewer than 25 employees. The FCC may not conduct or sponsor a collection of information unless it displays a currently valid OMB control number. No person shall be subject to any penalty for failing to comply with a collection of information subject to the PRA that does not display a valid OMB control number.",
+      "document_number": "2025-06096",
+      "html_url": "https://www.federalregister.gov/documents/2025/04/09/2025-06096/information-collection-being-reviewed-by-the-federal-communications-commission-under-delegated",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-04-09/pdf/2025-06096.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-06096.pdf?1744116313",
+      "publication_date": "2025-04-09",
+      "agencies": [
+        {
+          "raw_name": "FEDERAL COMMUNICATIONS COMMISSION",
+          "name": "Federal Communications Commission",
+          "id": 161,
+          "url": "https://www.federalregister.gov/agencies/federal-communications-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/161",
+          "parent_id": null,
+          "slug": "federal-communications-commission"
+        }
+      ],
+      "excerpts": "As part of its continuing effort to reduce paperwork burdens, and as required by the Paperwork Reduction Act (PRA) of 1995, the Federal Communications Commission (FCC or Commission) invites the general public and other Federal agencies to take this..."
+    },
+    {
+      "title": "Change in Bank Control Notices; Acquisitions of Shares of a Bank or Bank Holding Company",
+      "type": "Notice",
+      "abstract": null,
+      "document_number": "2025-06078",
+      "html_url": "https://www.federalregister.gov/documents/2025/04/09/2025-06078/change-in-bank-control-notices-acquisitions-of-shares-of-a-bank-or-bank-holding-company",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-04-09/pdf/2025-06078.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-06078.pdf?1744116311",
+      "publication_date": "2025-04-09",
+      "agencies": [
+        {
+          "raw_name": "FEDERAL RESERVE SYSTEM",
+          "name": "Federal Reserve System",
+          "id": 188,
+          "url": "https://www.federalregister.gov/agencies/federal-reserve-system",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/188",
+          "parent_id": null,
+          "slug": "federal-reserve-system"
+        }
+      ],
+      "excerpts": null
+    },
+    {
+      "title": "Determination That FLUMADINE (Rimantadine Hydrochloride) Tablet, 100 Milligrams, Was Not Withdrawn From Sale for Reasons of Safety or Effectiveness",
+      "type": "Notice",
+      "abstract": "The Food and Drug Administration (FDA, the Agency, or we) has determined that FLUMADINE (rimantadine hydrochloride) tablet, 100 milligrams (mg), was not withdrawn from sale for reasons of safety or effectiveness. This determination means that FDA will not begin procedures to withdraw approval of abbreviated new drug applications (ANDAs) that refer to this drug product, and it will allow FDA to continue to approve ANDAs that refer to the product as long as they meet relevant legal and regulatory requirements.",
+      "document_number": "2025-06050",
+      "html_url": "https://www.federalregister.gov/documents/2025/04/09/2025-06050/determination-that-flumadine-rimantadine-hydrochloride-tablet-100-milligrams-was-not-withdrawn-from",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-04-09/pdf/2025-06050.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-06050.pdf?1744116309",
+      "publication_date": "2025-04-09",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF HEALTH AND HUMAN SERVICES",
+          "name": "Health and Human Services Department",
+          "id": 221,
+          "url": "https://www.federalregister.gov/agencies/health-and-human-services-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/221",
+          "parent_id": null,
+          "slug": "health-and-human-services-department"
+        },
+        {
+          "raw_name": "Food and Drug Administration",
+          "name": "Food and Drug Administration",
+          "id": 199,
+          "url": "https://www.federalregister.gov/agencies/food-and-drug-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/199",
+          "parent_id": 221,
+          "slug": "food-and-drug-administration"
+        }
+      ],
+      "excerpts": "The Food and Drug Administration (FDA, the Agency, or we) has determined that FLUMADINE (rimantadine hydrochloride) tablet, 100 milligrams (mg), was not withdrawn from sale for reasons of safety or effectiveness. This determination means that FDA will..."
+    },
+    {
+      "title": "GE HealthCare, et al.; Withdrawal of Approval of 18 New Drug Applications",
+      "type": "Notice",
+      "abstract": "The Food and Drug Administration (FDA or Agency) is withdrawing approval of 18 new drug applications (NDAs) from multiple applicants. The applicants notified the Agency in writing that the drug products were no longer marketed and requested that the approval of the applications be withdrawn.",
+      "document_number": "2025-06045",
+      "html_url": "https://www.federalregister.gov/documents/2025/04/09/2025-06045/ge-healthcare-et-al-withdrawal-of-approval-of-18-new-drug-applications",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-04-09/pdf/2025-06045.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-06045.pdf?1744116308",
+      "publication_date": "2025-04-09",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF HEALTH AND HUMAN SERVICES",
+          "name": "Health and Human Services Department",
+          "id": 221,
+          "url": "https://www.federalregister.gov/agencies/health-and-human-services-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/221",
+          "parent_id": null,
+          "slug": "health-and-human-services-department"
+        },
+        {
+          "raw_name": "Food and Drug Administration",
+          "name": "Food and Drug Administration",
+          "id": 199,
+          "url": "https://www.federalregister.gov/agencies/food-and-drug-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/199",
+          "parent_id": 221,
+          "slug": "food-and-drug-administration"
+        }
+      ],
+      "excerpts": "The Food and Drug Administration (FDA or Agency) is withdrawing approval of 18 new drug applications (NDAs) from multiple applicants. The applicants notified the Agency in writing that the drug products were no longer marketed and requested that the..."
+    },
+    {
+      "title": "Type VII Veterinary Master File for Research and Development and Risk Reviews; Draft Guidance for Industry; Reopening of the Comment Period",
+      "type": "Notice",
+      "abstract": "The Food and Drug Administration (FDA or the Agency) is reopening the comment period for the notice announcing the availability of a draft guidance for industry (GFI) that appeared in the Federal Register of January 7, 2025. In that notice, FDA requested comments on draft GFI #260 entitled \"Type VII Veterinary Master File for Research and Development and Risk Reviews.\" The Agency is taking this action in response to a request for an extension to allow interested persons additional time to submit comments before the agency begins work on the final version of the guidance.",
+      "document_number": "2025-06047",
+      "html_url": "https://www.federalregister.gov/documents/2025/04/09/2025-06047/type-vii-veterinary-master-file-for-research-and-development-and-risk-reviews-draft-guidance-for",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-04-09/pdf/2025-06047.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-06047.pdf?1744116308",
+      "publication_date": "2025-04-09",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF HEALTH AND HUMAN SERVICES",
+          "name": "Health and Human Services Department",
+          "id": 221,
+          "url": "https://www.federalregister.gov/agencies/health-and-human-services-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/221",
+          "parent_id": null,
+          "slug": "health-and-human-services-department"
+        },
+        {
+          "raw_name": "Food and Drug Administration",
+          "name": "Food and Drug Administration",
+          "id": 199,
+          "url": "https://www.federalregister.gov/agencies/food-and-drug-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/199",
+          "parent_id": 221,
+          "slug": "food-and-drug-administration"
+        }
+      ],
+      "excerpts": "The Food and Drug Administration (FDA or the Agency) is reopening the comment period for the notice announcing the availability of a draft guidance for industry (GFI) that appeared in the Federal Register of January 7, 2025. In that notice, FDA..."
+    },
+    {
+      "title": "Determination That ETHYOL (Amifostine) for Injection, 500 Milligrams/Vial, Was Not Withdrawn From Sale for Reasons of Safety or Effectiveness",
+      "type": "Notice",
+      "abstract": "The Food and Drug Administration (FDA, the Agency, or we) has determined that ETHYOL (amifostine) for injection, 500 milligrams (mg)/ vial, was not withdrawn from sale for reasons of safety or effectiveness. This determination means that FDA will not begin procedures to withdraw approval of abbreviated new drug applications (ANDAs) that refer to this drug product, and it will allow FDA to continue to approve ANDAs that refer to the product as long as they meet relevant legal and regulatory requirements.",
+      "document_number": "2025-06044",
+      "html_url": "https://www.federalregister.gov/documents/2025/04/09/2025-06044/determination-that-ethyol-amifostine-for-injection-500-milligramsvial-was-not-withdrawn-from-sale",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-04-09/pdf/2025-06044.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-06044.pdf?1744116308",
+      "publication_date": "2025-04-09",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF HEALTH AND HUMAN SERVICES",
+          "name": "Health and Human Services Department",
+          "id": 221,
+          "url": "https://www.federalregister.gov/agencies/health-and-human-services-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/221",
+          "parent_id": null,
+          "slug": "health-and-human-services-department"
+        },
+        {
+          "raw_name": "Food and Drug Administration",
+          "name": "Food and Drug Administration",
+          "id": 199,
+          "url": "https://www.federalregister.gov/agencies/food-and-drug-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/199",
+          "parent_id": 221,
+          "slug": "food-and-drug-administration"
+        }
+      ],
+      "excerpts": "The Food and Drug Administration (FDA, the Agency, or we) has determined that ETHYOL (amifostine) for injection, 500 milligrams (mg)/ vial, was not withdrawn from sale for reasons of safety or effectiveness. This determination means that FDA will not..."
+    },
+    {
+      "title": "Determination That DECADRON (Dexamethasone Sodium Phosphate) Solution/Drops, Equivalent to 0.1 Percent Phosphate, Was Not Withdrawn From Sale for Reasons of Safety or Effectiveness",
+      "type": "Notice",
+      "abstract": "The Food and Drug Administration (FDA, Agency, or we) has determined that DECADRON (dexamethasone sodium phosphate) solution/ drops, equivalent to (EQ) 0.1 percent phosphate, was not withdrawn from sale for reasons of safety or effectiveness. This determination means that FDA will not begin procedures to withdraw approval of abbreviated new drug applications (ANDAs) that refer to this drug product, and it will allow FDA to continue to approve ANDAs that refer to the product as long as they meet relevant legal and regulatory requirements.",
+      "document_number": "2025-06046",
+      "html_url": "https://www.federalregister.gov/documents/2025/04/09/2025-06046/determination-that-decadron-dexamethasone-sodium-phosphate-solutiondrops-equivalent-to-01-percent",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-04-09/pdf/2025-06046.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-06046.pdf?1744116308",
+      "publication_date": "2025-04-09",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF HEALTH AND HUMAN SERVICES",
+          "name": "Health and Human Services Department",
+          "id": 221,
+          "url": "https://www.federalregister.gov/agencies/health-and-human-services-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/221",
+          "parent_id": null,
+          "slug": "health-and-human-services-department"
+        },
+        {
+          "raw_name": "Food and Drug Administration",
+          "name": "Food and Drug Administration",
+          "id": 199,
+          "url": "https://www.federalregister.gov/agencies/food-and-drug-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/199",
+          "parent_id": 221,
+          "slug": "food-and-drug-administration"
+        }
+      ],
+      "excerpts": "The Food and Drug Administration (FDA, Agency, or we) has determined that DECADRON (dexamethasone sodium phosphate) solution/ drops, equivalent to (EQ) 0.1 percent phosphate, was not withdrawn from sale for reasons of safety or effectiveness. This..."
+    },
+    {
+      "title": "Determination That NASCOBAL (Cyanocobalamin) Nasal Spray, 0.5 Milligram/Spray, Was Not Withdrawn From Sale for Reasons of Safety or Effectiveness",
+      "type": "Notice",
+      "abstract": "The Food and Drug Administration (FDA, Agency, or we) has determined that NASCOBAL (cyanocobalamin) nasal spray, 0.5 milligram (mg)/spray, was not withdrawn from sale for reasons of safety or effectiveness. This determination means that FDA will not begin procedures to withdraw approval of abbreviated new drug applications (ANDAs) that refer to this drug product, and it will allow FDA to continue to approve ANDAs that refer to the product as long as they meet relevant legal and regulatory requirements.",
+      "document_number": "2025-06043",
+      "html_url": "https://www.federalregister.gov/documents/2025/04/09/2025-06043/determination-that-nascobal-cyanocobalamin-nasal-spray-05-milligramspray-was-not-withdrawn-from-sale",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-04-09/pdf/2025-06043.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-06043.pdf?1744116308",
+      "publication_date": "2025-04-09",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF HEALTH AND HUMAN SERVICES",
+          "name": "Health and Human Services Department",
+          "id": 221,
+          "url": "https://www.federalregister.gov/agencies/health-and-human-services-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/221",
+          "parent_id": null,
+          "slug": "health-and-human-services-department"
+        },
+        {
+          "raw_name": "Food and Drug Administration",
+          "name": "Food and Drug Administration",
+          "id": 199,
+          "url": "https://www.federalregister.gov/agencies/food-and-drug-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/199",
+          "parent_id": 221,
+          "slug": "food-and-drug-administration"
+        }
+      ],
+      "excerpts": "The Food and Drug Administration (FDA, Agency, or we) has determined that NASCOBAL (cyanocobalamin) nasal spray, 0.5 milligram (mg)/spray, was not withdrawn from sale for reasons of safety or effectiveness. This determination means that FDA will not..."
+    },
+    {
+      "title": "Notice of Open Public Hearing",
+      "type": "Notice",
+      "abstract": "Notice is hereby given of the following hearing of the U.S.- China Economic and Security Review Commission. The Commission is mandated by Congress to investigate, assess, and report to Congress annually on \"the national security implications of the economic relationship between the United States and the People's Republic of China.\" Pursuant to this mandate, the Commission will hold a public hearing in Washington, DC on April 24, 2025 on \"China's Domestic Energy Challenges and Its Growing Influence Over International Energy Markets.\"",
+      "document_number": "2025-06105",
+      "html_url": "https://www.federalregister.gov/documents/2025/04/09/2025-06105/notice-of-open-public-hearing",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-04-09/pdf/2025-06105.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-06105.pdf?1744116314",
+      "publication_date": "2025-04-09",
+      "agencies": [
+        {
+          "raw_name": "U.S.-CHINA ECONOMIC AND SECURITY REVIEW COMMISSION",
+          "name": "U.S.-China Economic and Security Review Commission",
+          "id": 505,
+          "url": "https://www.federalregister.gov/agencies/u-s-china-economic-and-security-review-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/505",
+          "parent_id": null,
+          "slug": "u-s-china-economic-and-security-review-commission"
+        }
+      ],
+      "excerpts": "Notice is hereby given of the following hearing of the U.S.- China Economic and Security Review Commission. The Commission is mandated by Congress to investigate, assess, and report to Congress annually on \"the national security implications of the..."
+    },
+    {
+      "title": "Agency Information Collection Activity: Certification Requirements for Funeral Honors Providers",
+      "type": "Notice",
+      "abstract": "National Cemetery Administration, Department of Veterans Affairs (VA), is announcing an opportunity for public comment on the proposed collection of certain information by the agency. Under the Paperwork Reduction Act (PRA) of 1995, Federal agencies are required to publish notice in the Federal Register concerning each proposed collection of information, including each proposed extension of a currently approved collection, and allow 60 days for public comment in response to the notice.",
+      "document_number": "2025-06079",
+      "html_url": "https://www.federalregister.gov/documents/2025/04/09/2025-06079/agency-information-collection-activity-certification-requirements-for-funeral-honors-providers",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-04-09/pdf/2025-06079.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-06079.pdf?1744116311",
+      "publication_date": "2025-04-09",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF VETERANS AFFAIRS",
+          "name": "Veterans Affairs Department",
+          "id": 520,
+          "url": "https://www.federalregister.gov/agencies/veterans-affairs-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/520",
+          "parent_id": null,
+          "slug": "veterans-affairs-department"
+        }
+      ],
+      "excerpts": "National Cemetery Administration, Department of Veterans Affairs (VA), is announcing an opportunity for public comment on the proposed collection of certain information by the agency. Under the Paperwork Reduction Act (PRA) of 1995, Federal agencies..."
+    },
+    {
+      "title": "Cancer Control Month, 2025",
+      "type": "Presidential Document",
+      "abstract": null,
+      "document_number": "2025-06158",
+      "html_url": "https://www.federalregister.gov/documents/2025/04/09/2025-06158/cancer-control-month-2025",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-04-09/pdf/2025-06158.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-06158.pdf?1744116315",
+      "publication_date": "2025-04-09",
+      "agencies": [
+        {
+          "raw_name": "EXECUTIVE OFFICE OF THE PRESIDENT",
+          "name": "Executive Office of the President",
+          "id": 538,
+          "url": "https://www.federalregister.gov/agencies/executive-office-of-the-president",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/538",
+          "parent_id": null,
+          "slug": "executive-office-of-the-president"
+        }
+      ],
+      "excerpts": null
+    },
+    {
+      "title": "National Child Abuse Prevention Month, 2025",
+      "type": "Presidential Document",
+      "abstract": null,
+      "document_number": "2025-06159",
+      "html_url": "https://www.federalregister.gov/documents/2025/04/09/2025-06159/national-child-abuse-prevention-month-2025",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-04-09/pdf/2025-06159.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-06159.pdf?1744116315",
+      "publication_date": "2025-04-09",
+      "agencies": [
+        {
+          "raw_name": "EXECUTIVE OFFICE OF THE PRESIDENT",
+          "name": "Executive Office of the President",
+          "id": 538,
+          "url": "https://www.federalregister.gov/agencies/executive-office-of-the-president",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/538",
+          "parent_id": null,
+          "slug": "executive-office-of-the-president"
+        }
+      ],
+      "excerpts": null
+    },
+    {
+      "title": "National Donate Life Month, 2025",
+      "type": "Presidential Document",
+      "abstract": null,
+      "document_number": "2025-06160",
+      "html_url": "https://www.federalregister.gov/documents/2025/04/09/2025-06160/national-donate-life-month-2025",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-04-09/pdf/2025-06160.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-06160.pdf?1744116315",
+      "publication_date": "2025-04-09",
+      "agencies": [
+        {
+          "raw_name": "EXECUTIVE OFFICE OF THE PRESIDENT",
+          "name": "Executive Office of the President",
+          "id": 538,
+          "url": "https://www.federalregister.gov/agencies/executive-office-of-the-president",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/538",
+          "parent_id": null,
+          "slug": "executive-office-of-the-president"
+        }
+      ],
+      "excerpts": null
+    },
+    {
+      "title": "National Sexual Assault Awareness and Prevention Month, 2025",
+      "type": "Presidential Document",
+      "abstract": null,
+      "document_number": "2025-06161",
+      "html_url": "https://www.federalregister.gov/documents/2025/04/09/2025-06161/national-sexual-assault-awareness-and-prevention-month-2025",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-04-09/pdf/2025-06161.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-06161.pdf?1744116315",
+      "publication_date": "2025-04-09",
+      "agencies": [
+        {
+          "raw_name": "EXECUTIVE OFFICE OF THE PRESIDENT",
+          "name": "Executive Office of the President",
+          "id": 538,
+          "url": "https://www.federalregister.gov/agencies/executive-office-of-the-president",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/538",
+          "parent_id": null,
+          "slug": "executive-office-of-the-president"
+        }
+      ],
+      "excerpts": null
+    },
+    {
+      "title": "Extending the TikTok Enforcement Delay",
+      "type": "Presidential Document",
+      "abstract": null,
+      "document_number": "2025-06162",
+      "html_url": "https://www.federalregister.gov/documents/2025/04/09/2025-06162/extending-the-tiktok-enforcement-delay",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-04-09/pdf/2025-06162.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-06162.pdf?1744116315",
+      "publication_date": "2025-04-09",
+      "agencies": [
+        {
+          "raw_name": "EXECUTIVE OFFICE OF THE PRESIDENT",
+          "name": "Executive Office of the President",
+          "id": 538,
+          "url": "https://www.federalregister.gov/agencies/executive-office-of-the-president",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/538",
+          "parent_id": null,
+          "slug": "executive-office-of-the-president"
+        }
+      ],
+      "excerpts": null
+    },
+    {
+      "title": "Teva Pharmaceuticals USA, Inc., et al.; Withdrawal of Approval of 23 Abbreviated New Drug Applications; Correction",
+      "type": "Notice",
+      "abstract": "The Food and Drug Administration (FDA) is correcting a notice that appeared in the Federal Register on January 15, 2025. The document announced the withdrawal of approval of 23 abbreviated new drug applications (ANDAs) from multiple applicants, withdrawn as of February 14, 2025. The document indicated that FDA was withdrawing approval of the ANDA 209325 for miglustat capsule, 100 milligrams, held by Breckenridge Pharmaceutical, Inc., 15 Massirio Dr., Suite 201, Berlin, CT 06037. Before FDA withdrew the approval of this ANDA, Breckenridge Pharmaceutical, Inc. informed FDA that they did not want the approval of the ANDA withdrawn. Because Breckenridge Pharmaceutical, Inc., timely requested that approval of ANDA 209325 not be withdrawn, the approval is still in effect. This notice corrects this error.",
+      "document_number": "2025-06052",
+      "html_url": "https://www.federalregister.gov/documents/2025/04/09/2025-06052/teva-pharmaceuticals-usa-inc-et-al-withdrawal-of-approval-of-23-abbreviated-new-drug-applications",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-04-09/pdf/2025-06052.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-06052.pdf?1744116309",
+      "publication_date": "2025-04-09",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF HEALTH AND HUMAN SERVICES",
+          "name": "Health and Human Services Department",
+          "id": 221,
+          "url": "https://www.federalregister.gov/agencies/health-and-human-services-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/221",
+          "parent_id": null,
+          "slug": "health-and-human-services-department"
+        },
+        {
+          "raw_name": "Food and Drug Administration",
+          "name": "Food and Drug Administration",
+          "id": 199,
+          "url": "https://www.federalregister.gov/agencies/food-and-drug-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/199",
+          "parent_id": 221,
+          "slug": "food-and-drug-administration"
+        }
+      ],
+      "excerpts": "The Food and Drug Administration (FDA) is correcting a notice that appeared in the Federal Register on January 15, 2025. The document announced the withdrawal of approval of 23 abbreviated new drug applications (ANDAs) from multiple applicants,..."
+    },
+    {
+      "title": "Determination That VIBRAMYCIN (Doxycycline) for Oral Suspension, Equivalent 25 Milligrams Base/5 Milliliter, Was Not Withdrawn From Sale for Reasons of Safety or Effectiveness",
+      "type": "Notice",
+      "abstract": "The Food and Drug Administration (FDA, Agency, or we) has determined that VIBRAMYCIN (doxycycline) for oral suspension, equivalent (EQ) 25 milligrams (mg) base/5 milliliters (mL), was not withdrawn from sale for reasons of safety or effectiveness. This determination means that FDA will not begin procedures to withdraw approval of abbreviated new drug applications (ANDAs) that refer to this drug product, and it will allow FDA to continue to approve ANDAs that refer to the product as long as they meet relevant legal and regulatory requirements.",
+      "document_number": "2025-06053",
+      "html_url": "https://www.federalregister.gov/documents/2025/04/09/2025-06053/determination-that-vibramycin-doxycycline-for-oral-suspension-equivalent-25-milligrams-base5",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-04-09/pdf/2025-06053.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-06053.pdf?1744116309",
+      "publication_date": "2025-04-09",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF HEALTH AND HUMAN SERVICES",
+          "name": "Health and Human Services Department",
+          "id": 221,
+          "url": "https://www.federalregister.gov/agencies/health-and-human-services-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/221",
+          "parent_id": null,
+          "slug": "health-and-human-services-department"
+        },
+        {
+          "raw_name": "Food and Drug Administration",
+          "name": "Food and Drug Administration",
+          "id": 199,
+          "url": "https://www.federalregister.gov/agencies/food-and-drug-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/199",
+          "parent_id": 221,
+          "slug": "food-and-drug-administration"
+        }
+      ],
+      "excerpts": "The Food and Drug Administration (FDA, Agency, or we) has determined that VIBRAMYCIN (doxycycline) for oral suspension, equivalent (EQ) 25 milligrams (mg) base/5 milliliters (mL), was not withdrawn from sale for reasons of safety or effectiveness. This..."
+    },
+    {
+      "title": "National Institute of Neurological Disorders and Stroke; Notice of Closed Meetings",
+      "type": "Notice",
+      "abstract": null,
+      "document_number": "2025-06090",
+      "html_url": "https://www.federalregister.gov/documents/2025/04/09/2025-06090/national-institute-of-neurological-disorders-and-stroke-notice-of-closed-meetings",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-04-09/pdf/2025-06090.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-06090.pdf?1744116312",
+      "publication_date": "2025-04-09",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF HEALTH AND HUMAN SERVICES",
+          "name": "Health and Human Services Department",
+          "id": 221,
+          "url": "https://www.federalregister.gov/agencies/health-and-human-services-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/221",
+          "parent_id": null,
+          "slug": "health-and-human-services-department"
+        },
+        {
+          "raw_name": "National Institutes of Health",
+          "name": "National Institutes of Health",
+          "id": 353,
+          "url": "https://www.federalregister.gov/agencies/national-institutes-of-health",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/353",
+          "parent_id": 221,
+          "slug": "national-institutes-of-health"
+        }
+      ],
+      "excerpts": null
+    },
+    {
+      "title": "Center for Scientific Review; Notice of Closed Meetings",
+      "type": "Notice",
+      "abstract": null,
+      "document_number": "2025-06087",
+      "html_url": "https://www.federalregister.gov/documents/2025/04/09/2025-06087/center-for-scientific-review-notice-of-closed-meetings",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-04-09/pdf/2025-06087.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-06087.pdf?1744116312",
+      "publication_date": "2025-04-09",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF HEALTH AND HUMAN SERVICES",
+          "name": "Health and Human Services Department",
+          "id": 221,
+          "url": "https://www.federalregister.gov/agencies/health-and-human-services-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/221",
+          "parent_id": null,
+          "slug": "health-and-human-services-department"
+        },
+        {
+          "raw_name": "National Institutes of Health",
+          "name": "National Institutes of Health",
+          "id": 353,
+          "url": "https://www.federalregister.gov/agencies/national-institutes-of-health",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/353",
+          "parent_id": 221,
+          "slug": "national-institutes-of-health"
+        }
+      ],
+      "excerpts": null
+    },
+    {
+      "title": "National Institute on Alcohol Abuse and Alcoholism; Notice of Meeting",
+      "type": "Notice",
+      "abstract": null,
+      "document_number": "2025-06091",
+      "html_url": "https://www.federalregister.gov/documents/2025/04/09/2025-06091/national-institute-on-alcohol-abuse-and-alcoholism-notice-of-meeting",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-04-09/pdf/2025-06091.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-06091.pdf?1744116313",
+      "publication_date": "2025-04-09",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF HEALTH AND HUMAN SERVICES",
+          "name": "Health and Human Services Department",
+          "id": 221,
+          "url": "https://www.federalregister.gov/agencies/health-and-human-services-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/221",
+          "parent_id": null,
+          "slug": "health-and-human-services-department"
+        },
+        {
+          "raw_name": "National Institutes of Health",
+          "name": "National Institutes of Health",
+          "id": 353,
+          "url": "https://www.federalregister.gov/agencies/national-institutes-of-health",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/353",
+          "parent_id": 221,
+          "slug": "national-institutes-of-health"
+        }
+      ],
+      "excerpts": null
+    },
+    {
+      "title": "Center for Scientific Review; Amended Notice of Meeting",
+      "type": "Notice",
+      "abstract": null,
+      "document_number": "2025-06093",
+      "html_url": "https://www.federalregister.gov/documents/2025/04/09/2025-06093/center-for-scientific-review-amended-notice-of-meeting",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-04-09/pdf/2025-06093.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-06093.pdf?1744116313",
+      "publication_date": "2025-04-09",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF HEALTH AND HUMAN SERVICES",
+          "name": "Health and Human Services Department",
+          "id": 221,
+          "url": "https://www.federalregister.gov/agencies/health-and-human-services-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/221",
+          "parent_id": null,
+          "slug": "health-and-human-services-department"
+        },
+        {
+          "raw_name": "National Institutes of Health",
+          "name": "National Institutes of Health",
+          "id": 353,
+          "url": "https://www.federalregister.gov/agencies/national-institutes-of-health",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/353",
+          "parent_id": 221,
+          "slug": "national-institutes-of-health"
+        }
+      ],
+      "excerpts": null
+    },
+    {
+      "title": "National Institute on Minority Health and Health Disparities; Amended Notice of Closed Meeting",
+      "type": "Notice",
+      "abstract": null,
+      "document_number": "2025-06092",
+      "html_url": "https://www.federalregister.gov/documents/2025/04/09/2025-06092/national-institute-on-minority-health-and-health-disparities-amended-notice-of-closed-meeting",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-04-09/pdf/2025-06092.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-06092.pdf?1744116313",
+      "publication_date": "2025-04-09",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF HEALTH AND HUMAN SERVICES",
+          "name": "Health and Human Services Department",
+          "id": 221,
+          "url": "https://www.federalregister.gov/agencies/health-and-human-services-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/221",
+          "parent_id": null,
+          "slug": "health-and-human-services-department"
+        },
+        {
+          "raw_name": "National Institutes of Health",
+          "name": "National Institutes of Health",
+          "id": 353,
+          "url": "https://www.federalregister.gov/agencies/national-institutes-of-health",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/353",
+          "parent_id": 221,
+          "slug": "national-institutes-of-health"
+        }
+      ],
+      "excerpts": null
+    },
+    {
+      "title": "National Heart, Lung, and Blood Institute; Notice of Meeting",
+      "type": "Notice",
+      "abstract": null,
+      "document_number": "2025-06089",
+      "html_url": "https://www.federalregister.gov/documents/2025/04/09/2025-06089/national-heart-lung-and-blood-institute-notice-of-meeting",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-04-09/pdf/2025-06089.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-06089.pdf?1744116312",
+      "publication_date": "2025-04-09",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF HEALTH AND HUMAN SERVICES",
+          "name": "Health and Human Services Department",
+          "id": 221,
+          "url": "https://www.federalregister.gov/agencies/health-and-human-services-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/221",
+          "parent_id": null,
+          "slug": "health-and-human-services-department"
+        },
+        {
+          "raw_name": "National Institutes of Health",
+          "name": "National Institutes of Health",
+          "id": 353,
+          "url": "https://www.federalregister.gov/agencies/national-institutes-of-health",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/353",
+          "parent_id": 221,
+          "slug": "national-institutes-of-health"
+        }
+      ],
+      "excerpts": null
+    },
+    {
+      "title": "Center for Scientific Review; Amended Notice of Meeting",
+      "type": "Notice",
+      "abstract": null,
+      "document_number": "2025-06086",
+      "html_url": "https://www.federalregister.gov/documents/2025/04/09/2025-06086/center-for-scientific-review-amended-notice-of-meeting",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-04-09/pdf/2025-06086.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-06086.pdf?1744116312",
+      "publication_date": "2025-04-09",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF HEALTH AND HUMAN SERVICES",
+          "name": "Health and Human Services Department",
+          "id": 221,
+          "url": "https://www.federalregister.gov/agencies/health-and-human-services-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/221",
+          "parent_id": null,
+          "slug": "health-and-human-services-department"
+        },
+        {
+          "raw_name": "National Institutes of Health",
+          "name": "National Institutes of Health",
+          "id": 353,
+          "url": "https://www.federalregister.gov/agencies/national-institutes-of-health",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/353",
+          "parent_id": 221,
+          "slug": "national-institutes-of-health"
+        }
+      ],
+      "excerpts": null
+    },
+    {
+      "title": "National Institute on Minority Health and Health Disparities; Notice of Closed Meetings",
+      "type": "Notice",
+      "abstract": null,
+      "document_number": "2025-06088",
+      "html_url": "https://www.federalregister.gov/documents/2025/04/09/2025-06088/national-institute-on-minority-health-and-health-disparities-notice-of-closed-meetings",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-04-09/pdf/2025-06088.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-06088.pdf?1744116312",
+      "publication_date": "2025-04-09",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF HEALTH AND HUMAN SERVICES",
+          "name": "Health and Human Services Department",
+          "id": 221,
+          "url": "https://www.federalregister.gov/agencies/health-and-human-services-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/221",
+          "parent_id": null,
+          "slug": "health-and-human-services-department"
+        },
+        {
+          "raw_name": "National Institutes of Health",
+          "name": "National Institutes of Health",
+          "id": 353,
+          "url": "https://www.federalregister.gov/agencies/national-institutes-of-health",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/353",
+          "parent_id": 221,
+          "slug": "national-institutes-of-health"
+        }
+      ],
+      "excerpts": null
+    },
+    {
+      "title": "National Human Genome Research Institute; Amended Notice of Meeting",
+      "type": "Notice",
+      "abstract": null,
+      "document_number": "2025-06065",
+      "html_url": "https://www.federalregister.gov/documents/2025/04/09/2025-06065/national-human-genome-research-institute-amended-notice-of-meeting",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-04-09/pdf/2025-06065.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-06065.pdf?1744116310",
+      "publication_date": "2025-04-09",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF HEALTH AND HUMAN SERVICES",
+          "name": "Health and Human Services Department",
+          "id": 221,
+          "url": "https://www.federalregister.gov/agencies/health-and-human-services-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/221",
+          "parent_id": null,
+          "slug": "health-and-human-services-department"
+        },
+        {
+          "raw_name": "National Institutes of Health",
+          "name": "National Institutes of Health",
+          "id": 353,
+          "url": "https://www.federalregister.gov/agencies/national-institutes-of-health",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/353",
+          "parent_id": 221,
+          "slug": "national-institutes-of-health"
+        }
+      ],
+      "excerpts": null
+    },
+    {
+      "title": "Agency Information Collection Activities; Technical Service Center Summer Intern Program Application",
+      "type": "Notice",
+      "abstract": "In accordance with the Paperwork Reduction Act of 1995, we, the Bureau of Reclamation (Reclamation), are proposing to renew an information collection with revisions.",
+      "document_number": "2025-06095",
+      "html_url": "https://www.federalregister.gov/documents/2025/04/09/2025-06095/agency-information-collection-activities-technical-service-center-summer-intern-program-application",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-04-09/pdf/2025-06095.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-06095.pdf?1744116313",
+      "publication_date": "2025-04-09",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF THE INTERIOR",
+          "name": "Interior Department",
+          "id": 253,
+          "url": "https://www.federalregister.gov/agencies/interior-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/253",
+          "parent_id": null,
+          "slug": "interior-department"
+        },
+        {
+          "raw_name": "Bureau of Reclamation",
+          "name": "Reclamation Bureau",
+          "id": 446,
+          "url": "https://www.federalregister.gov/agencies/reclamation-bureau",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/446",
+          "parent_id": 253,
+          "slug": "reclamation-bureau"
+        }
+      ],
+      "excerpts": "In accordance with the Paperwork Reduction Act of 1995, we, the Bureau of Reclamation (Reclamation), are proposing to renew an information collection with revisions."
+    },
+    {
+      "title": "Agency Information Collection Activities: Proposed Collection; Comment Request",
+      "type": "Notice",
+      "abstract": "We are proposing to request an extension from the Office of Management and Budget (OMB) of two currently approved information collections. The first information collection is used by former Federal civilian employees or other authorized individuals to request information from or copies of documents in Official Personnel Files (OPF) or Employee Medical Files (EMF). The second information collection is used to connect veterans and Schedule A-eligible applicants with an opportunity for noncompetitive employment. Information will be collected from people who are interested in these opportunities to consider them for the positions and match them with possible jobs. The collection includes approval of a form, NARA Employment Interest Questionnaire, NA Form 3102. We invite you to comment on these information collections up for renewal.",
+      "document_number": "2025-06075",
+      "html_url": "https://www.federalregister.gov/documents/2025/04/09/2025-06075/agency-information-collection-activities-proposed-collection-comment-request",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-04-09/pdf/2025-06075.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-06075.pdf?1744116311",
+      "publication_date": "2025-04-09",
+      "agencies": [
+        {
+          "raw_name": "NATIONAL ARCHIVES AND RECORDS ADMINISTRATION",
+          "name": "National Archives and Records Administration",
+          "id": 304,
+          "url": "https://www.federalregister.gov/agencies/national-archives-and-records-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/304",
+          "parent_id": null,
+          "slug": "national-archives-and-records-administration"
+        }
+      ],
+      "excerpts": "We are proposing to request an extension from the Office of Management and Budget (OMB) of two currently approved information collections. The first information collection is used by former Federal civilian employees or other authorized individuals to..."
+    },
+    {
+      "title": "Sunshine Act Meetings",
+      "type": "Notice",
+      "abstract": null,
+      "document_number": "2025-06163",
+      "html_url": "https://www.federalregister.gov/documents/2025/04/09/2025-06163/sunshine-act-meetings",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-04-09/pdf/2025-06163.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-06163.pdf?1744056907",
+      "publication_date": "2025-04-09",
+      "agencies": [
+        {
+          "raw_name": "NEIGHBORHOOD REINVESTMENT CORPORATION",
+          "name": "Neighborhood Reinvestment Corporation",
+          "id": 379,
+          "url": "https://www.federalregister.gov/agencies/neighborhood-reinvestment-corporation",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/379",
+          "parent_id": null,
+          "slug": "neighborhood-reinvestment-corporation"
+        }
+      ],
+      "excerpts": null
+    },
+    {
+      "title": "State of Connecticut: NRC Staff Assessment of a Proposed Agreement Between the Nuclear Regulatory Commission and the State of Connecticut",
+      "type": "Notice",
+      "abstract": "As required by section 274e. of the Atomic Energy Act of 1954, as amended (AEA), the U.S. Nuclear Regulatory Commission (NRC or Commission) is publishing the proposed Agreement for public comment (Appendix A). The NRC is also publishing the summary of a draft assessment by the NRC staff of the State of Connecticut's regulatory program. Comments are requested on the proposed Agreement and its effect on public health and safety. Comments are also requested on the draft staff assessment, the adequacy of the State of Connecticut's program, and the adequacy of the staffing of the State's program, as discussed in this document.",
+      "document_number": "2025-05140",
+      "html_url": "https://www.federalregister.gov/documents/2025/04/09/2025-05140/state-of-connecticut-nrc-staff-assessment-of-a-proposed-agreement-between-the-nuclear-regulatory",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-04-09/pdf/2025-05140.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-05140.pdf?1744116306",
+      "publication_date": "2025-04-09",
+      "agencies": [
+        {
+          "raw_name": "NUCLEAR REGULATORY COMMISSION",
+          "name": "Nuclear Regulatory Commission",
+          "id": 383,
+          "url": "https://www.federalregister.gov/agencies/nuclear-regulatory-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/383",
+          "parent_id": null,
+          "slug": "nuclear-regulatory-commission"
+        }
+      ],
+      "excerpts": "As required by section 274e. of the Atomic Energy Act of 1954, as amended (AEA), the U.S. Nuclear Regulatory Commission (NRC or Commission) is publishing the proposed Agreement for public comment (Appendix A). The NRC is also publishing the summary of..."
+    },
+    {
+      "title": "Notice for Public Comment: OSC Annual Survey",
+      "type": "Notice",
+      "abstract": "The U.S. Office of Special Counsel is seeking approval from the Office of Management and Budget (OMB) for the reinstatement of an expired information collection request (ICR) under the Paperwork Reduction Act (PRA). OSC is statutorily required to conduct an annual survey assessing the effectiveness of its operations, including the handling of Prohibited Personnel Practice (PPP) complaints, whistleblower disclosures, and enforcement efforts. The collection gathers feedback from individuals who have sought OSC's assistance.",
+      "document_number": "2025-06068",
+      "html_url": "https://www.federalregister.gov/documents/2025/04/09/2025-06068/notice-for-public-comment-osc-annual-survey",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-04-09/pdf/2025-06068.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-06068.pdf?1744116310",
+      "publication_date": "2025-04-09",
+      "agencies": [
+        {
+          "raw_name": "OFFICE OF SPECIAL COUNSEL",
+          "name": "Special Counsel Office",
+          "id": 473,
+          "url": "https://www.federalregister.gov/agencies/special-counsel-office",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/473",
+          "parent_id": null,
+          "slug": "special-counsel-office"
+        }
+      ],
+      "excerpts": "The U.S. Office of Special Counsel is seeking approval from the Office of Management and Budget (OMB) for the reinstatement of an expired information collection request (ICR) under the Paperwork Reduction Act (PRA). OSC is statutorily required to..."
+    },
+    {
+      "title": "Notice for Public Comment: Information Collection Request",
+      "type": "Notice",
+      "abstract": "In accordance with the Paperwork Reduction Act of 1995, the U.S. Office of Special Counsel is seeking public comment on an extension of a currently approved information collection activity for its Alternative Dispute Resolution (ADR) Program. The ADR Survey is distributed to participants following the conclusion of their ADR process and is used to assess program effectiveness and identify areas for improvement. The survey gathers feedback from mediation participants to help OSC improve the ADR process. Participation in the survey is voluntary, and responses are submitted anonymously.",
+      "document_number": "2025-06106",
+      "html_url": "https://www.federalregister.gov/documents/2025/04/09/2025-06106/notice-for-public-comment-information-collection-request",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-04-09/pdf/2025-06106.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-06106.pdf?1744116314",
+      "publication_date": "2025-04-09",
+      "agencies": [
+        {
+          "raw_name": "OFFICE OF SPECIAL COUNSEL",
+          "name": "Special Counsel Office",
+          "id": 473,
+          "url": "https://www.federalregister.gov/agencies/special-counsel-office",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/473",
+          "parent_id": null,
+          "slug": "special-counsel-office"
+        }
+      ],
+      "excerpts": "In accordance with the Paperwork Reduction Act of 1995, the U.S. Office of Special Counsel is seeking public comment on an extension of a currently approved information collection activity for its Alternative Dispute Resolution (ADR) Program. The ADR..."
+    },
+    {
+      "title": "New Postal Products",
+      "type": "Notice",
+      "abstract": "The Commission is noticing a recent Postal Service filing for the Commission's consideration concerning a negotiated service agreement. This notice informs the public of the filing, invites public comment, and takes other administrative steps.",
+      "document_number": "2025-06084",
+      "html_url": "https://www.federalregister.gov/documents/2025/04/09/2025-06084/new-postal-products",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-04-09/pdf/2025-06084.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-06084.pdf?1744116312",
+      "publication_date": "2025-04-09",
+      "agencies": [
+        {
+          "raw_name": "POSTAL REGULATORY COMMISSION",
+          "name": "Postal Regulatory Commission",
+          "id": 409,
+          "url": "https://www.federalregister.gov/agencies/postal-regulatory-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/409",
+          "parent_id": null,
+          "slug": "postal-regulatory-commission"
+        }
+      ],
+      "excerpts": "The Commission is noticing a recent Postal Service filing for the Commission's consideration concerning a negotiated service agreement. This notice informs the public of the filing, invites public comment, and takes other administrative steps."
+    },
+    {
+      "title": "Self-Regulatory Organizations; The Options Clearing Corporation; Order Granting Approval of Proposed Rule Change, as Modified by Partial Amendment No. 1 and Amendments Nos. 2 and 3, by The Options Clearing Corporation To Establish a Margin Add-On Charge That Would Be Applied to All Clearing Member Accounts To Help Mitigate the Risks Arising From Intraday and Overnight Trading Activity",
+      "type": "Notice",
+      "abstract": null,
+      "document_number": "2025-06041",
+      "html_url": "https://www.federalregister.gov/documents/2025/04/09/2025-06041/self-regulatory-organizations-the-options-clearing-corporation-order-granting-approval-of-proposed",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-04-09/pdf/2025-06041.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-06041.pdf?1744116308",
+      "publication_date": "2025-04-09",
+      "agencies": [
+        {
+          "raw_name": "SECURITIES AND EXCHANGE COMMISSION",
+          "name": "Securities and Exchange Commission",
+          "id": 466,
+          "url": "https://www.federalregister.gov/agencies/securities-and-exchange-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/466",
+          "parent_id": null,
+          "slug": "securities-and-exchange-commission"
+        }
+      ],
+      "excerpts": null
+    },
+    {
+      "title": "Self-Regulatory Organizations; New York Stock Exchange LLC; Notice of Filing and Immediate Effectiveness of Proposed Rule Change To Amend Its Price List",
+      "type": "Notice",
+      "abstract": null,
+      "document_number": "2025-06034",
+      "html_url": "https://www.federalregister.gov/documents/2025/04/09/2025-06034/self-regulatory-organizations-new-york-stock-exchange-llc-notice-of-filing-and-immediate",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-04-09/pdf/2025-06034.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-06034.pdf?1744116307",
+      "publication_date": "2025-04-09",
+      "agencies": [
+        {
+          "raw_name": "SECURITIES AND EXCHANGE COMMISSION",
+          "name": "Securities and Exchange Commission",
+          "id": 466,
+          "url": "https://www.federalregister.gov/agencies/securities-and-exchange-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/466",
+          "parent_id": null,
+          "slug": "securities-and-exchange-commission"
+        }
+      ],
+      "excerpts": null
+    },
+    {
+      "title": "Presidential Declaration Amendment of a Major Disaster for Public Assistance Only for the Commonwealth of Kentucky",
+      "type": "Notice",
+      "abstract": "This is an amendment of the Presidential declaration of a major disaster for Public Assistance Only for the Commonwealth of Kentucky (FEMA-4860-DR), dated March 4, 2025. Incident: Severe Storms, Straight-line Winds, Flooding, Landslides, and Mudslides.",
+      "document_number": "2025-06058",
+      "html_url": "https://www.federalregister.gov/documents/2025/04/09/2025-06058/presidential-declaration-amendment-of-a-major-disaster-for-public-assistance-only-for-the",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-04-09/pdf/2025-06058.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-06058.pdf?1744116309",
+      "publication_date": "2025-04-09",
+      "agencies": [
+        {
+          "raw_name": "SMALL BUSINESS ADMINISTRATION",
+          "name": "Small Business Administration",
+          "id": 468,
+          "url": "https://www.federalregister.gov/agencies/small-business-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/468",
+          "parent_id": null,
+          "slug": "small-business-administration"
+        }
+      ],
+      "excerpts": "This is an amendment of the Presidential declaration of a major disaster for Public Assistance Only for the Commonwealth of Kentucky (FEMA-4860-DR), dated March 4, 2025. Incident: Severe Storms, Straight-line Winds, Flooding, Landslides, and Mudslides."
+    },
+    {
+      "title": "Petition for Exemption; Summary of Petition Received; Beverly Hills Aerials, LLC",
+      "type": "Notice",
+      "abstract": "This notice contains a summary of a petition seeking relief from specified requirements of Federal Aviation Regulations. The purpose of this notice is to improve the public's awareness of, and participation in, the FAA's exemption process. Neither publication of this notice nor the inclusion nor omission of information in the summary is intended to affect the legal status of the petition or its final disposition.",
+      "document_number": "2025-06037",
+      "html_url": "https://www.federalregister.gov/documents/2025/04/09/2025-06037/petition-for-exemption-summary-of-petition-received-beverly-hills-aerials-llc",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-04-09/pdf/2025-06037.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-06037.pdf?1744116307",
+      "publication_date": "2025-04-09",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "parent_id": null,
+          "slug": "transportation-department"
+        },
+        {
+          "raw_name": "Federal Aviation Administration",
+          "name": "Federal Aviation Administration",
+          "id": 159,
+          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+          "parent_id": 492,
+          "slug": "federal-aviation-administration"
+        }
+      ],
+      "excerpts": "This notice contains a summary of a petition seeking relief from specified requirements of Federal Aviation Regulations. The purpose of this notice is to improve the public's awareness of, and participation in, the FAA's exemption process. Neither..."
+    },
+    {
+      "title": "Petition for Exemption; Summary of Petition Received; Czechmate L-39 Demo Team",
+      "type": "Notice",
+      "abstract": "This notice contains a summary of a petition seeking relief from specified requirements of Federal Aviation Regulations. The purpose of this notice is to improve the public's awareness of, and participation in, the FAA's exemption process. Neither publication of this notice nor the inclusion nor omission of information in the summary is intended to affect the legal status of the petition or its final disposition.",
+      "document_number": "2025-06036",
+      "html_url": "https://www.federalregister.gov/documents/2025/04/09/2025-06036/petition-for-exemption-summary-of-petition-received-czechmate-l-39-demo-team",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-04-09/pdf/2025-06036.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-06036.pdf?1744116307",
+      "publication_date": "2025-04-09",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "parent_id": null,
+          "slug": "transportation-department"
+        },
+        {
+          "raw_name": "Federal Aviation Administration",
+          "name": "Federal Aviation Administration",
+          "id": 159,
+          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+          "parent_id": 492,
+          "slug": "federal-aviation-administration"
+        }
+      ],
+      "excerpts": "This notice contains a summary of a petition seeking relief from specified requirements of Federal Aviation Regulations. The purpose of this notice is to improve the public's awareness of, and participation in, the FAA's exemption process. Neither..."
+    },
+    {
+      "title": "Notice of Final Federal Agency Actions on Transportation Project in Washington State",
+      "type": "Notice",
+      "abstract": "This notice announces actions taken by the FHWA that are final. The action relates to the SR 510 Yelm Loop--New Alignment Phase 2 Project, located in the City of Yelm, Thurston County. The Project will construct approximately three miles of new highway composed of one travel lane in each direction, starting at Cullens Road (at the terminus of Phase 1) and ending at the intersection of SR 507 and 170th Street. The highway will be classified limited access between Cullens Road and 103rd Avenue, and managed access between 103rd Avenue and SR 507. The FHWA's National Environmental Policy Act (NEPA) Finding of No Significant Impact (FONSI) provides details on the Selected Alternative for the proposed improvements.",
+      "document_number": "2025-06104",
+      "html_url": "https://www.federalregister.gov/documents/2025/04/09/2025-06104/notice-of-final-federal-agency-actions-on-transportation-project-in-washington-state",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-04-09/pdf/2025-06104.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-06104.pdf?1744116314",
+      "publication_date": "2025-04-09",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "parent_id": null,
+          "slug": "transportation-department"
+        },
+        {
+          "raw_name": "Federal Highway Administration",
+          "name": "Federal Highway Administration",
+          "id": 170,
+          "url": "https://www.federalregister.gov/agencies/federal-highway-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/170",
+          "parent_id": 492,
+          "slug": "federal-highway-administration"
+        }
+      ],
+      "excerpts": "This notice announces actions taken by the FHWA that are final. The action relates to the SR 510 Yelm Loop--New Alignment Phase 2 Project, located in the City of Yelm, Thurston County. The Project will construct approximately three miles of new highway..."
+    },
+    {
+      "title": "Hours of Service of Drivers: McKee Foods Transportation, LLC, Application for Exemption",
+      "type": "Notice",
+      "abstract": "FMCSA announces its final decision to renew the exemption granted to McKee Foods Transportation, LLC (MFT), USDOT #1025678, from the hours-of-service (HOS) regulations pertaining to the use of a sleeper berth. The exemption renewal allows MFT team drivers to take the equivalent of 10 consecutive hours off duty by splitting sleeper berth time into two periods totaling 10 hours, provided neither of the two periods is less than two hours. FMCSA has analyzed the exemption application and the public comments and has determined that the exemption, subject to the terms and conditions set forth below, is likely to achieve a level of safety that is equivalent to or greater than the level that would be achieved absent such exemption.",
+      "document_number": "2025-06060",
+      "html_url": "https://www.federalregister.gov/documents/2025/04/09/2025-06060/hours-of-service-of-drivers-mckee-foods-transportation-llc-application-for-exemption",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-04-09/pdf/2025-06060.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-06060.pdf?1744116310",
+      "publication_date": "2025-04-09",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "parent_id": null,
+          "slug": "transportation-department"
+        },
+        {
+          "raw_name": "Federal Motor Carrier Safety Administration",
+          "name": "Federal Motor Carrier Safety Administration",
+          "id": 181,
+          "url": "https://www.federalregister.gov/agencies/federal-motor-carrier-safety-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/181",
+          "parent_id": 492,
+          "slug": "federal-motor-carrier-safety-administration"
+        }
+      ],
+      "excerpts": "FMCSA announces its final decision to renew the exemption granted to McKee Foods Transportation, LLC (MFT), USDOT #1025678, from the hours-of-service (HOS) regulations pertaining to the use of a sleeper berth. The exemption renewal allows MFT team..."
+    },
+    {
+      "title": "Agency Information Collection Activities; Submission to the Office of Management and Budget for Review and Approval; Request for Comment; Examining the Effectiveness of Lane Departure Warning and Lane Keep Assist Advanced Driver Assistance Systems for Improving Driver Response",
+      "type": "Notice",
+      "abstract": "In compliance with the Paperwork Reduction Act of 1995 (PRA), this notice announces that the Information Collection Request (ICR) summarized below will be submitted to the Office of Management and Budget (OMB) for review and approval. This document describes a new collection of information for which NHTSA intends to seek OMB approval titled \"Examining the Effectiveness of Lane Departure Warning and Lane Keep Assist Advanced Driver Assistance Systems (ADAS) for Improving Driver Response.\" A Federal Register Notice with a 60-day comment period soliciting comments on this information collection was published on September 3, 2024. One comment was received in response, recommending the collection of an additional data point. NHTSA agrees with the comment and has incorporated the change in the respective form.",
+      "document_number": "2025-06077",
+      "html_url": "https://www.federalregister.gov/documents/2025/04/09/2025-06077/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-for",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-04-09/pdf/2025-06077.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-06077.pdf?1744116311",
+      "publication_date": "2025-04-09",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "parent_id": null,
+          "slug": "transportation-department"
+        },
+        {
+          "raw_name": "National Highway Traffic Safety Administration",
+          "name": "National Highway Traffic Safety Administration",
+          "id": 345,
+          "url": "https://www.federalregister.gov/agencies/national-highway-traffic-safety-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/345",
+          "parent_id": 492,
+          "slug": "national-highway-traffic-safety-administration"
+        }
+      ],
+      "excerpts": "In compliance with the Paperwork Reduction Act of 1995 (PRA), this notice announces that the Information Collection Request (ICR) summarized below will be submitted to the Office of Management and Budget (OMB) for review and approval. This document..."
+    },
+    {
+      "title": "Self-Regulatory Organizations; Cboe BZX Exchange, Inc.; Notice of Filing of a Proposed Rule Change, as Modified by Amendment No. 1, To List and Trade Shares of the Fidelity Solana Fund, Under BZX Rule 14.11(e)(4), Commodity-Based Trust Shares",
+      "type": "Notice",
+      "abstract": null,
+      "document_number": "2025-06033",
+      "html_url": "https://www.federalregister.gov/documents/2025/04/09/2025-06033/self-regulatory-organizations-cboe-bzx-exchange-inc-notice-of-filing-of-a-proposed-rule-change-as",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-04-09/pdf/2025-06033.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-06033.pdf?1744116307",
+      "publication_date": "2025-04-09",
+      "agencies": [
+        {
+          "raw_name": "SECURITIES AND EXCHANGE COMMISSION",
+          "name": "Securities and Exchange Commission",
+          "id": 466,
+          "url": "https://www.federalregister.gov/agencies/securities-and-exchange-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/466",
+          "parent_id": null,
+          "slug": "securities-and-exchange-commission"
+        }
+      ],
+      "excerpts": null
+    },
+    {
+      "title": "Meeting the Challenge of Resource Adequacy in Regional Transmission Organization and Independent System Operator Regions; Supplemental Notice of Commissioner-Led Technical Conference",
+      "type": "Notice",
+      "abstract": null,
+      "document_number": "2025-06082",
+      "html_url": "https://www.federalregister.gov/documents/2025/04/09/2025-06082/meeting-the-challenge-of-resource-adequacy-in-regional-transmission-organization-and-independent",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-04-09/pdf/2025-06082.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-06082.pdf?1744116312",
+      "publication_date": "2025-04-09",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF ENERGY",
+          "name": "Energy Department",
+          "id": 136,
+          "url": "https://www.federalregister.gov/agencies/energy-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/136",
+          "parent_id": null,
+          "slug": "energy-department"
+        },
+        {
+          "raw_name": "Federal Energy Regulatory Commission",
+          "name": "Federal Energy Regulatory Commission",
+          "id": 167,
+          "url": "https://www.federalregister.gov/agencies/federal-energy-regulatory-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/167",
+          "parent_id": 136,
+          "slug": "federal-energy-regulatory-commission"
+        }
+      ],
+      "excerpts": null
+    },
+    {
+      "title": "Availability of Revised NRC Form 3, \u201cNotice to Employees\u201d",
+      "type": "Notice",
+      "abstract": "The U.S. Nuclear Regulatory Commission (NRC) is announcing the availability of the latest version of NRC Form 3, \"Notice to Employees.\" The NRC Form 3 describes certain responsibilities and rights of employers and employees who engage in NRC-regulated activities, including how employees can report violations or other safety concerns directly to the NRC. Licensees are required by law to post the form at prominent locations at the workplace to permit workers to view it easily.",
+      "document_number": "2025-06101",
+      "html_url": "https://www.federalregister.gov/documents/2025/04/09/2025-06101/availability-of-revised-nrc-form-3-notice-to-employees",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-04-09/pdf/2025-06101.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-06101.pdf?1744116314",
+      "publication_date": "2025-04-09",
+      "agencies": [
+        {
+          "raw_name": "NUCLEAR REGULATORY COMMISSION",
+          "name": "Nuclear Regulatory Commission",
+          "id": 383,
+          "url": "https://www.federalregister.gov/agencies/nuclear-regulatory-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/383",
+          "parent_id": null,
+          "slug": "nuclear-regulatory-commission"
+        }
+      ],
+      "excerpts": "The U.S. Nuclear Regulatory Commission (NRC) is announcing the availability of the latest version of NRC Form 3, \"Notice to Employees.\" The NRC Form 3 describes certain responsibilities and rights of employers and employees who engage in NRC-regulated..."
+    },
+    {
+      "title": "Information Collection; Generic Clearance for the Collection of Qualitative Feedback on Agency Service Delivery",
+      "type": "Notice",
+      "abstract": "Under the provisions of the Paperwork Reduction Act, the Regulatory Secretariat Division will be submitting to the Office of Management and Budget (OMB) a request to review and approve an extension of a previously approved information collection requirement regarding the Generic Clearance for the Collection of Qualitative Feedback on Agency Service Delivery.",
+      "document_number": "2025-06029",
+      "html_url": "https://www.federalregister.gov/documents/2025/04/09/2025-06029/information-collection-generic-clearance-for-the-collection-of-qualitative-feedback-on-agency",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-04-09/pdf/2025-06029.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-06029.pdf?1744116306",
+      "publication_date": "2025-04-09",
+      "agencies": [
+        {
+          "raw_name": "GENERAL SERVICES ADMINISTRATION",
+          "name": "General Services Administration",
+          "id": 210,
+          "url": "https://www.federalregister.gov/agencies/general-services-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/210",
+          "parent_id": null,
+          "slug": "general-services-administration"
+        }
+      ],
+      "excerpts": "Under the provisions of the Paperwork Reduction Act, the Regulatory Secretariat Division will be submitting to the Office of Management and Budget (OMB) a request to review and approve an extension of a previously approved information collection..."
+    },
+    {
+      "title": "Growing, Harvesting, Processing, and Distribution of Poppy Seeds-Industry Practices Related to Opiate Alkaloids; Request for Information; Extension of Comment Period",
+      "type": "Notice",
+      "abstract": "The Food and Drug Administration (FDA or we) is extending the comment period for a request for information on industry practices related to poppy seeds, such as information about growing, harvesting, processing, and distribution of poppy seeds, including industry practices to reduce the opiate alkaloid content of poppy seeds. We are taking this action in response to requests for an extension to allow interested persons additional time to submit comments. We intend to use the information to help determine what type(s) of actions, if any, we should take to help ensure that poppy seed products do not pose a health risk when consumed.",
+      "document_number": "2025-06049",
+      "html_url": "https://www.federalregister.gov/documents/2025/04/09/2025-06049/growing-harvesting-processing-and-distribution-of-poppy-seeds-industry-practices-related-to-opiate",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-04-09/pdf/2025-06049.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-06049.pdf?1744116309",
+      "publication_date": "2025-04-09",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF HEALTH AND HUMAN SERVICES",
+          "name": "Health and Human Services Department",
+          "id": 221,
+          "url": "https://www.federalregister.gov/agencies/health-and-human-services-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/221",
+          "parent_id": null,
+          "slug": "health-and-human-services-department"
+        },
+        {
+          "raw_name": "Food and Drug Administration",
+          "name": "Food and Drug Administration",
+          "id": 199,
+          "url": "https://www.federalregister.gov/agencies/food-and-drug-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/199",
+          "parent_id": 221,
+          "slug": "food-and-drug-administration"
+        }
+      ],
+      "excerpts": "The Food and Drug Administration (FDA or we) is extending the comment period for a request for information on industry practices related to poppy seeds, such as information about growing, harvesting, processing, and distribution of poppy seeds,..."
+    },
+    {
+      "title": "General Services Administration Acquisition Regulation (GSAR); Update to OMB Approval Table",
+      "type": "Rule",
+      "abstract": null,
+      "document_number": "C1-2025-05430",
+      "html_url": "https://www.federalregister.gov/documents/2025/04/09/C1-2025-05430/general-services-administration-acquisition-regulation-gsar-update-to-omb-approval-table",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-04-09/pdf/C1-2025-05430.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/C1-2025-05430.pdf?1744116315",
+      "publication_date": "2025-04-09",
+      "agencies": [
+        {
+          "raw_name": "GENERAL SERVICES ADMINISTRATION",
+          "name": "General Services Administration",
+          "id": 210,
+          "url": "https://www.federalregister.gov/agencies/general-services-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/210",
+          "parent_id": null,
+          "slug": "general-services-administration"
+        }
+      ],
+      "excerpts": null
+    },
+    {
+      "title": "21st Century Cures Act: Annual Compilation of Notices of Updates From the Susceptibility Test Interpretive Criteria Web Page; Request for Comments",
+      "type": "Notice",
+      "abstract": "The Food and Drug Administration (FDA, the Agency, or we) is announcing the availability of the Agency's annual compilation of notices of updates to the Agency's Susceptibility Test Interpretive Criteria web page. The Agency established the Susceptibility Test Interpretive Criteria web page on December 13, 2017, and since establishment has provided updates to both the format of the web pages and the susceptibility test interpretive criteria identified and recognized by FDA on the web pages. FDA is publishing this notice in accordance with procedures established by the 21st Century Cures Act (Cures Act).",
+      "document_number": "2025-06048",
+      "html_url": "https://www.federalregister.gov/documents/2025/04/09/2025-06048/21st-century-cures-act-annual-compilation-of-notices-of-updates-from-the-susceptibility-test",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-04-09/pdf/2025-06048.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-06048.pdf?1744116309",
+      "publication_date": "2025-04-09",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF HEALTH AND HUMAN SERVICES",
+          "name": "Health and Human Services Department",
+          "id": 221,
+          "url": "https://www.federalregister.gov/agencies/health-and-human-services-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/221",
+          "parent_id": null,
+          "slug": "health-and-human-services-department"
+        },
+        {
+          "raw_name": "Food and Drug Administration",
+          "name": "Food and Drug Administration",
+          "id": 199,
+          "url": "https://www.federalregister.gov/agencies/food-and-drug-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/199",
+          "parent_id": 221,
+          "slug": "food-and-drug-administration"
+        }
+      ],
+      "excerpts": "The Food and Drug Administration (FDA, the Agency, or we) is announcing the availability of the Agency's annual compilation of notices of updates to the Agency's Susceptibility Test Interpretive Criteria web page. The Agency established the..."
+    },
+    {
+      "title": "Electronic Study Data Submission; Data Standards; Clinical Data Interchange Standards Consortium Dataset-JavaScript Object Notation; Request for Comments",
+      "type": "Notice",
+      "abstract": "The Food and Drug Administration (FDA or Agency) is exploring Clinical Data Interchange Standards Consortium (CDISC) Dataset- JavaScript Object Notation (Dataset-JSON) version 1.1 as a new exchange standard, with the long-term potential to replace Statistical Analysis System (SAS) version 5 XPORT Transport Format (XPT), for submission of electronic study data to the Center for Biologics Evaluation and Research (CBER) and the Center for Drug Evaluation and Research (CDER). FDA is requesting comments on whether to accept Dataset-JSON to exchange electronic study data as part of regulatory applications in the future. In particular, FDA is requesting feedback on the risks and benefits of industry adopting Dataset-JSON as a new exchange standard for submitting electronic study data to FDA and any integration challenges with existing tools and systems.",
+      "document_number": "2025-06051",
+      "html_url": "https://www.federalregister.gov/documents/2025/04/09/2025-06051/electronic-study-data-submission-data-standards-clinical-data-interchange-standards-consortium",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-04-09/pdf/2025-06051.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-06051.pdf?1744116309",
+      "publication_date": "2025-04-09",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF HEALTH AND HUMAN SERVICES",
+          "name": "Health and Human Services Department",
+          "id": 221,
+          "url": "https://www.federalregister.gov/agencies/health-and-human-services-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/221",
+          "parent_id": null,
+          "slug": "health-and-human-services-department"
+        },
+        {
+          "raw_name": "Food and Drug Administration",
+          "name": "Food and Drug Administration",
+          "id": 199,
+          "url": "https://www.federalregister.gov/agencies/food-and-drug-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/199",
+          "parent_id": 221,
+          "slug": "food-and-drug-administration"
+        }
+      ],
+      "excerpts": "The Food and Drug Administration (FDA or Agency) is exploring Clinical Data Interchange Standards Consortium (CDISC) Dataset- JavaScript Object Notation (Dataset-JSON) version 1.1 as a new exchange standard, with the long-term potential to replace..."
+    }
+  ]
+}

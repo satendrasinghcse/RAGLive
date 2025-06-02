@@ -1,0 +1,1615 @@
+{
+  "count": 60,
+  "description": "Documents published on 02/12/2025",
+  "total_pages": 1,
+  "results": [
+    {
+      "title": "Annual Update to Fee Schedule for the Use of Government Lands by Hydropower Licensees",
+      "type": "Rule",
+      "abstract": "In accordance with the Commission's regulations, the Commission, by its designee, the Executive Director, issues this annual update to the fee schedule in the appendix to the part, which lists per-acre rental fees by county (or other geographic area) for use of Government lands by hydropower licensees.",
+      "document_number": "2025-02417",
+      "html_url": "https://www.federalregister.gov/documents/2025/02/12/2025-02417/annual-update-to-fee-schedule-for-the-use-of-government-lands-by-hydropower-licensees",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-02-12/pdf/2025-02417.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-02417.pdf?1739281508",
+      "publication_date": "2025-02-12",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF ENERGY",
+          "name": "Energy Department",
+          "id": 136,
+          "url": "https://www.federalregister.gov/agencies/energy-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/136",
+          "parent_id": null,
+          "slug": "energy-department"
+        },
+        {
+          "raw_name": "Federal Energy Regulatory Commission",
+          "name": "Federal Energy Regulatory Commission",
+          "id": 167,
+          "url": "https://www.federalregister.gov/agencies/federal-energy-regulatory-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/167",
+          "parent_id": 136,
+          "slug": "federal-energy-regulatory-commission"
+        }
+      ],
+      "excerpts": "In accordance with the Commission's regulations, the Commission, by its designee, the Executive Director, issues this annual update to the fee schedule in the appendix to the part, which lists per-acre rental fees by county (or other geographic area)..."
+    },
+    {
+      "title": "Notice of Formal Determination on Records Release",
+      "type": "Notice",
+      "abstract": "The Civil Rights Cold Case Records Review Board received 679 pages of records from the National Archives and Records Administration (NARA), the Department of Justice, and the Federal Bureau of Investigation (FBI) related to a civil rights cold case incident to which the Review Board assigned the unique identifier 2023-002-001. NARA did not propose any postponements of disclosure. The Department of Justice and the FBI proposed 562 postponements of disclosure. On January 10, 2025, the Review Board approved 267 postponements, requested changes to 25 postponements, and determined that 640 pages in full and 39 pages in part should be publicly disclosed in the Civil Rights Cold Case Records Collection. The Review Board also voted to approve the four postponements pending from incident 2023-002-007. By issuing this notice, the Review Board complies with section 7(c)(4) of the Civil Rights Cold Case Records Collection Act of 2018 that requires the Review Board to publish in the Federal Register its determinations on the disclosure or postponement of records in the Collection no more than 14 days after the date of its decision.",
+      "document_number": "2025-02522",
+      "html_url": "https://www.federalregister.gov/documents/2025/02/12/2025-02522/notice-of-formal-determination-on-records-release",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-02-12/pdf/2025-02522.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-02522.pdf?1739281512",
+      "publication_date": "2025-02-12",
+      "agencies": [
+        {
+          "raw_name": "Civil Rights Cold Case Records Review Board",
+          "name": "Civil Rights Cold Case Records Review Board",
+          "id": 618,
+          "url": "https://www.federalregister.gov/agencies/civil-rights-cold-case-records-review-board",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/618",
+          "parent_id": null,
+          "slug": "civil-rights-cold-case-records-review-board"
+        }
+      ],
+      "excerpts": "The Civil Rights Cold Case Records Review Board received 679 pages of records from the National Archives and Records Administration (NARA), the Department of Justice, and the Federal Bureau of Investigation (FBI) related to a civil rights cold case..."
+    },
+    {
+      "title": "Foreign-Trade Zone (FTZ) 7; Notification of Proposed Production Activity; Lilly del Caribe, Inc.; (Pharmaceutical Products); Carolina, Puerto Rico",
+      "type": "Notice",
+      "abstract": null,
+      "document_number": "2025-02507",
+      "html_url": "https://www.federalregister.gov/documents/2025/02/12/2025-02507/foreign-trade-zone-ftz-7-notification-of-proposed-production-activity-lilly-del-caribe-inc",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-02-12/pdf/2025-02507.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-02507.pdf?1739281510",
+      "publication_date": "2025-02-12",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF COMMERCE",
+          "name": "Commerce Department",
+          "id": 54,
+          "url": "https://www.federalregister.gov/agencies/commerce-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+          "parent_id": null,
+          "slug": "commerce-department"
+        },
+        {
+          "raw_name": "Foreign-Trade Zones Board",
+          "name": "Foreign-Trade Zones Board",
+          "id": 208,
+          "url": "https://www.federalregister.gov/agencies/foreign-trade-zones-board",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/208",
+          "parent_id": 54,
+          "slug": "foreign-trade-zones-board"
+        }
+      ],
+      "excerpts": null
+    },
+    {
+      "title": "Agreement Suspending the Antidumping Duty Investigation on Lemon Juice From Argentina: Rescission of 2022-2023 and 2023-2024 Administrative Reviews",
+      "type": "Notice",
+      "abstract": "The U.S. Department of Commerce (Commerce) is rescinding the administrative reviews of the Agreement Suspending the Antidumping Duty Investigation on Lemon Juice from Argentina (2016 Agreement) for the periods of review (PORs) from October 1, 2022, through September 30, 2023, and from October 1, 2023, through September 30, 2024. On January 17, 2025, Commerce finalized an amendment to the 2016 Agreement, rendering the administrative reviews of the pre-existing 2016 Amendment moot.",
+      "document_number": "2025-02541",
+      "html_url": "https://www.federalregister.gov/documents/2025/02/12/2025-02541/agreement-suspending-the-antidumping-duty-investigation-on-lemon-juice-from-argentina-rescission-of",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-02-12/pdf/2025-02541.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-02541.pdf?1739281513",
+      "publication_date": "2025-02-12",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF COMMERCE",
+          "name": "Commerce Department",
+          "id": 54,
+          "url": "https://www.federalregister.gov/agencies/commerce-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+          "parent_id": null,
+          "slug": "commerce-department"
+        },
+        {
+          "raw_name": "International Trade Administration",
+          "name": "International Trade Administration",
+          "id": 261,
+          "url": "https://www.federalregister.gov/agencies/international-trade-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/261",
+          "parent_id": 54,
+          "slug": "international-trade-administration"
+        }
+      ],
+      "excerpts": "The U.S. Department of Commerce (Commerce) is rescinding the administrative reviews of the Agreement Suspending the Antidumping Duty Investigation on Lemon Juice from Argentina (2016 Agreement) for the periods of review (PORs) from October 1, 2022,..."
+    },
+    {
+      "title": "Sodium Nitrite From the Federal Republic of Germany and the People's Republic of China: Continuation of Antidumping Duty Orders",
+      "type": "Notice",
+      "abstract": "As a result of the determinations by the U.S. Department of Commerce (Commerce) and the U.S. International Trade Commission (ITC) that revocation of the antidumping duty (AD) orders on sodium nitrite from the Federal Republic of Germany (Germany) and the People's Republic of China (China) would likely lead to the continuation or recurrence of dumping, and material injury to an industry in the United States, Commerce is publishing a notice of continuation of these AD orders.",
+      "document_number": "2025-02543",
+      "html_url": "https://www.federalregister.gov/documents/2025/02/12/2025-02543/sodium-nitrite-from-the-federal-republic-of-germany-and-the-peoples-republic-of-china-continuation",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-02-12/pdf/2025-02543.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-02543.pdf?1739281514",
+      "publication_date": "2025-02-12",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF COMMERCE",
+          "name": "Commerce Department",
+          "id": 54,
+          "url": "https://www.federalregister.gov/agencies/commerce-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+          "parent_id": null,
+          "slug": "commerce-department"
+        },
+        {
+          "raw_name": "International Trade Administration",
+          "name": "International Trade Administration",
+          "id": 261,
+          "url": "https://www.federalregister.gov/agencies/international-trade-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/261",
+          "parent_id": 54,
+          "slug": "international-trade-administration"
+        }
+      ],
+      "excerpts": "As a result of the determinations by the U.S. Department of Commerce (Commerce) and the U.S. International Trade Commission (ITC) that revocation of the antidumping duty (AD) orders on sodium nitrite from the Federal Republic of Germany (Germany) and..."
+    },
+    {
+      "title": "Mattresses From Serbia: Rescission of Antidumping Duty Administrative Review; 2023-2024",
+      "type": "Notice",
+      "abstract": "The U.S. Department of Commerce (Commerce) is rescinding the administrative review of the antidumping duty (AD) order on mattresses from Serbia for the period of review (POR) May 1, 2023, through April 30, 2024.",
+      "document_number": "2025-02542",
+      "html_url": "https://www.federalregister.gov/documents/2025/02/12/2025-02542/mattresses-from-serbia-rescission-of-antidumping-duty-administrative-review-2023-2024",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-02-12/pdf/2025-02542.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-02542.pdf?1739281513",
+      "publication_date": "2025-02-12",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF COMMERCE",
+          "name": "Commerce Department",
+          "id": 54,
+          "url": "https://www.federalregister.gov/agencies/commerce-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+          "parent_id": null,
+          "slug": "commerce-department"
+        },
+        {
+          "raw_name": "International Trade Administration",
+          "name": "International Trade Administration",
+          "id": 261,
+          "url": "https://www.federalregister.gov/agencies/international-trade-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/261",
+          "parent_id": 54,
+          "slug": "international-trade-administration"
+        }
+      ],
+      "excerpts": "The U.S. Department of Commerce (Commerce) is rescinding the administrative review of the antidumping duty (AD) order on mattresses from Serbia for the period of review (POR) May 1, 2023, through April 30, 2024."
+    },
+    {
+      "title": "Renewable Energy and Energy Efficiency Advisory Committee",
+      "type": "Notice",
+      "abstract": "The Renewable Energy and Energy Efficiency Advisory Committee (REEEAC) in-person meeting scheduled for Wednesday, February 12, 2025 at the Department of Commerce in Washington, DC has been postponed. A rescheduled date and time for the REEEAC meeting will be announced through the Federal Register as well as on the REEEAC website, https:// trade.gov/reeeac.",
+      "document_number": "2025-02534",
+      "html_url": "https://www.federalregister.gov/documents/2025/02/12/2025-02534/renewable-energy-and-energy-efficiency-advisory-committee",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-02-12/pdf/2025-02534.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-02534.pdf?1739281513",
+      "publication_date": "2025-02-12",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF COMMERCE",
+          "name": "Commerce Department",
+          "id": 54,
+          "url": "https://www.federalregister.gov/agencies/commerce-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+          "parent_id": null,
+          "slug": "commerce-department"
+        },
+        {
+          "raw_name": "International Trade Administration",
+          "name": "International Trade Administration",
+          "id": 261,
+          "url": "https://www.federalregister.gov/agencies/international-trade-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/261",
+          "parent_id": 54,
+          "slug": "international-trade-administration"
+        }
+      ],
+      "excerpts": "The Renewable Energy and Energy Efficiency Advisory Committee (REEEAC) in-person meeting scheduled for Wednesday, February 12, 2025 at the Department of Commerce in Washington, DC has been postponed. A rescheduled date and time for the REEEAC meeting..."
+    },
+    {
+      "title": "Melamine From India: Final Affirmative Countervailing Duty Determination and Critical Circumstances Determination",
+      "type": "Notice",
+      "abstract": "The U.S. Department of Commerce (Commerce) determines that countervailable subsidies are being provided to producers and exporters of melamine from India. This investigation covers one mandatory respondent, Gujarat State Fertilizers and Chemicals Limited (Gujarat Fertilizers), and the period (POI) January 1, 2023, through December 31, 2023.",
+      "document_number": "2025-02548",
+      "html_url": "https://www.federalregister.gov/documents/2025/02/12/2025-02548/melamine-from-india-final-affirmative-countervailing-duty-determination-and-critical-circumstances",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-02-12/pdf/2025-02548.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-02548.pdf?1739281514",
+      "publication_date": "2025-02-12",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF COMMERCE",
+          "name": "Commerce Department",
+          "id": 54,
+          "url": "https://www.federalregister.gov/agencies/commerce-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+          "parent_id": null,
+          "slug": "commerce-department"
+        },
+        {
+          "raw_name": "International Trade Administration",
+          "name": "International Trade Administration",
+          "id": 261,
+          "url": "https://www.federalregister.gov/agencies/international-trade-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/261",
+          "parent_id": 54,
+          "slug": "international-trade-administration"
+        }
+      ],
+      "excerpts": "The U.S. Department of Commerce (Commerce) determines that countervailable subsidies are being provided to producers and exporters of melamine from India. This investigation covers one mandatory respondent, Gujarat State Fertilizers and Chemicals..."
+    },
+    {
+      "title": "Melamine From India: Final Affirmative Determination of Sales at Less Than Fair Value and Affirmative Determination of Critical Circumstances, In Part",
+      "type": "Notice",
+      "abstract": "The U.S. Department of Commerce (Commerce) determines that melamine from India is being, or is likely to be, sold in the United States at less than fair value (LTFV). The period of investigation (POI) is January 1, 2023, through December 31, 2023.",
+      "document_number": "2025-02547",
+      "html_url": "https://www.federalregister.gov/documents/2025/02/12/2025-02547/melamine-from-india-final-affirmative-determination-of-sales-at-less-than-fair-value-and-affirmative",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-02-12/pdf/2025-02547.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-02547.pdf?1739281514",
+      "publication_date": "2025-02-12",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF COMMERCE",
+          "name": "Commerce Department",
+          "id": 54,
+          "url": "https://www.federalregister.gov/agencies/commerce-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+          "parent_id": null,
+          "slug": "commerce-department"
+        },
+        {
+          "raw_name": "International Trade Administration",
+          "name": "International Trade Administration",
+          "id": 261,
+          "url": "https://www.federalregister.gov/agencies/international-trade-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/261",
+          "parent_id": 54,
+          "slug": "international-trade-administration"
+        }
+      ],
+      "excerpts": "The U.S. Department of Commerce (Commerce) determines that melamine from India is being, or is likely to be, sold in the United States at less than fair value (LTFV). The period of investigation (POI) is January 1, 2023, through December 31, 2023."
+    },
+    {
+      "title": "New England Fishery Management Council; Public Meetings",
+      "type": "Notice",
+      "abstract": "The New England Fishery Management Council (Council) is holding four regional workshops to hear and discuss feedback from the public on their vision of the Atlantic Sea Scallop Fishery. Workshop summaries will be presented at a future Council meeting.",
+      "document_number": "2025-02501",
+      "html_url": "https://www.federalregister.gov/documents/2025/02/12/2025-02501/new-england-fishery-management-council-public-meetings",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-02-12/pdf/2025-02501.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-02501.pdf?1739281510",
+      "publication_date": "2025-02-12",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF COMMERCE",
+          "name": "Commerce Department",
+          "id": 54,
+          "url": "https://www.federalregister.gov/agencies/commerce-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+          "parent_id": null,
+          "slug": "commerce-department"
+        },
+        {
+          "raw_name": "National Oceanic and Atmospheric Administration",
+          "name": "National Oceanic and Atmospheric Administration",
+          "id": 361,
+          "url": "https://www.federalregister.gov/agencies/national-oceanic-and-atmospheric-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/361",
+          "parent_id": 54,
+          "slug": "national-oceanic-and-atmospheric-administration"
+        }
+      ],
+      "excerpts": "The New England Fishery Management Council (Council) is holding four regional workshops to hear and discuss feedback from the public on their vision of the Atlantic Sea Scallop Fishery. Workshop summaries will be presented at a future Council meeting."
+    },
+    {
+      "title": "Western Pacific Fishery Management Council (Council); Public Meeting",
+      "type": "Notice",
+      "abstract": "The Western Pacific Stock Assessment Review (WPSAR) Steering Committee will convene a public meeting to discuss and approve the 5- year calendar for stock assessments, and to address any other concerns related to the WPSAR process.",
+      "document_number": "2025-02545",
+      "html_url": "https://www.federalregister.gov/documents/2025/02/12/2025-02545/western-pacific-fishery-management-council-council-public-meeting",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-02-12/pdf/2025-02545.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-02545.pdf?1739281514",
+      "publication_date": "2025-02-12",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF COMMERCE",
+          "name": "Commerce Department",
+          "id": 54,
+          "url": "https://www.federalregister.gov/agencies/commerce-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+          "parent_id": null,
+          "slug": "commerce-department"
+        },
+        {
+          "raw_name": "National Oceanic and Atmospheric Administration",
+          "name": "National Oceanic and Atmospheric Administration",
+          "id": 361,
+          "url": "https://www.federalregister.gov/agencies/national-oceanic-and-atmospheric-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/361",
+          "parent_id": 54,
+          "slug": "national-oceanic-and-atmospheric-administration"
+        }
+      ],
+      "excerpts": "The Western Pacific Stock Assessment Review (WPSAR) Steering Committee will convene a public meeting to discuss and approve the 5- year calendar for stock assessments, and to address any other concerns related to the WPSAR process."
+    },
+    {
+      "title": "Western Pacific Fishery Management Council; Public Meetings",
+      "type": "Notice",
+      "abstract": "The Western Pacific Fishery Management Council (Council) will hold its Mariana Archipelago Fishery Ecosystem Plan (FEP) Commonwealth of the Northern Mariana Islands (CNMI) Advisory Panel (AP), CNMI Regional Ecosystem Advisory Committee (REAC), Fishing Industry Advisory Committee (FIAC), Mariana Archipelago FEP Guam AP, and the Guam REAC to discuss and make recommendations on fishery management issues in the Western Pacific Region.",
+      "document_number": "2025-02502",
+      "html_url": "https://www.federalregister.gov/documents/2025/02/12/2025-02502/western-pacific-fishery-management-council-public-meetings",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-02-12/pdf/2025-02502.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-02502.pdf?1739281510",
+      "publication_date": "2025-02-12",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF COMMERCE",
+          "name": "Commerce Department",
+          "id": 54,
+          "url": "https://www.federalregister.gov/agencies/commerce-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+          "parent_id": null,
+          "slug": "commerce-department"
+        },
+        {
+          "raw_name": "National Oceanic and Atmospheric Administration",
+          "name": "National Oceanic and Atmospheric Administration",
+          "id": 361,
+          "url": "https://www.federalregister.gov/agencies/national-oceanic-and-atmospheric-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/361",
+          "parent_id": 54,
+          "slug": "national-oceanic-and-atmospheric-administration"
+        }
+      ],
+      "excerpts": "The Western Pacific Fishery Management Council (Council) will hold its Mariana Archipelago Fishery Ecosystem Plan (FEP) Commonwealth of the Northern Mariana Islands (CNMI) Advisory Panel (AP), CNMI Regional Ecosystem Advisory Committee (REAC), Fishing..."
+    },
+    {
+      "title": "South Atlantic Fishery Management Council; Public Meetings",
+      "type": "Notice",
+      "abstract": "The South Atlantic Fishery Management Council (Council) will hold meetings of the following: Snapper Grouper Commercial Sub- Committee; Habitat & Ecosystem Committee; Joint Habitat & Ecosystem and Shrimp Committee; Snapper Grouper Committee, Mackerel Cobia Committee, and the Southeast Data, Assessment, and Review (SEDAR) Committee. The meeting week will also include a formal public comment session and meetings of the Full Council.",
+      "document_number": "2025-02532",
+      "html_url": "https://www.federalregister.gov/documents/2025/02/12/2025-02532/south-atlantic-fishery-management-council-public-meetings",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-02-12/pdf/2025-02532.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-02532.pdf?1739281513",
+      "publication_date": "2025-02-12",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF COMMERCE",
+          "name": "Commerce Department",
+          "id": 54,
+          "url": "https://www.federalregister.gov/agencies/commerce-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+          "parent_id": null,
+          "slug": "commerce-department"
+        },
+        {
+          "raw_name": "National Oceanic and Atmospheric Administration",
+          "name": "National Oceanic and Atmospheric Administration",
+          "id": 361,
+          "url": "https://www.federalregister.gov/agencies/national-oceanic-and-atmospheric-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/361",
+          "parent_id": 54,
+          "slug": "national-oceanic-and-atmospheric-administration"
+        }
+      ],
+      "excerpts": "The South Atlantic Fishery Management Council (Council) will hold meetings of the following: Snapper Grouper Commercial Sub- Committee; Habitat & Ecosystem Committee; Joint Habitat & Ecosystem and Shrimp Committee; Snapper Grouper Committee, Mackerel..."
+    },
+    {
+      "title": "Hydrographic Services Review Panel Meeting, March 4th-5th, 2025",
+      "type": "Notice",
+      "abstract": "This serves as the notice of a public meeting for the NOAA Hydrographic Services Review Panel (HSRP) Federal Advisory Committee from March 4th through March 5th, 2025, in St. Petersburg, FL. The agenda for the HSRP public meeting will be posted in advance of the meeting on the HSRP website. Individuals or groups who would like to comment on NOAA navigation, observation, and positioning services topics are encouraged to submit public comments in advance of the HSRP public meeting via email, during the public meeting in person, or during the public meeting via the \"Questions\" function in the meeting webinar if joining the public meeting virtually.",
+      "document_number": "2025-02537",
+      "html_url": "https://www.federalregister.gov/documents/2025/02/12/2025-02537/hydrographic-services-review-panel-meeting-march-4th-5th-2025",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-02-12/pdf/2025-02537.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-02537.pdf?1739281513",
+      "publication_date": "2025-02-12",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF COMMERCE",
+          "name": "Commerce Department",
+          "id": 54,
+          "url": "https://www.federalregister.gov/agencies/commerce-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+          "parent_id": null,
+          "slug": "commerce-department"
+        },
+        {
+          "raw_name": "National Oceanic and Atmospheric Administration",
+          "name": "National Oceanic and Atmospheric Administration",
+          "id": 361,
+          "url": "https://www.federalregister.gov/agencies/national-oceanic-and-atmospheric-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/361",
+          "parent_id": 54,
+          "slug": "national-oceanic-and-atmospheric-administration"
+        }
+      ],
+      "excerpts": "This serves as the notice of a public meeting for the NOAA Hydrographic Services Review Panel (HSRP) Federal Advisory Committee from March 4th through March 5th, 2025, in St. Petersburg, FL. The agenda for the HSRP public meeting will be posted in..."
+    },
+    {
+      "title": "Board of Visitors, United States Military Academy (USMA BoV)",
+      "type": "Notice",
+      "abstract": "Under the provisions of the Federal Advisory Committee Act of 1972, the Government in the Sunshine Act of 1976, the Department of Defense announces that the following Federal advisory committee meeting will take place.",
+      "document_number": "2025-02503",
+      "html_url": "https://www.federalregister.gov/documents/2025/02/12/2025-02503/board-of-visitors-united-states-military-academy-usma-bov",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-02-12/pdf/2025-02503.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-02503.pdf?1739281510",
+      "publication_date": "2025-02-12",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF DEFENSE",
+          "name": "Defense Department",
+          "id": 103,
+          "url": "https://www.federalregister.gov/agencies/defense-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/103",
+          "parent_id": null,
+          "slug": "defense-department"
+        },
+        {
+          "raw_name": "Department of the Army",
+          "name": "Army Department",
+          "id": 32,
+          "url": "https://www.federalregister.gov/agencies/army-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/32",
+          "parent_id": 103,
+          "slug": "army-department"
+        }
+      ],
+      "excerpts": "Under the provisions of the Federal Advisory Committee Act of 1972, the Government in the Sunshine Act of 1976, the Department of Defense announces that the following Federal advisory committee meeting will take place."
+    },
+    {
+      "title": "NOW NE005 LLC; Notice of Preliminary Permit Application Accepted for Filing and Soliciting Comments, Motions To Intervene, and Competing Applications",
+      "type": "Notice",
+      "abstract": null,
+      "document_number": "2025-02516",
+      "html_url": "https://www.federalregister.gov/documents/2025/02/12/2025-02516/now-ne005-llc-notice-of-preliminary-permit-application-accepted-for-filing-and-soliciting-comments",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-02-12/pdf/2025-02516.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-02516.pdf?1739281511",
+      "publication_date": "2025-02-12",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF ENERGY",
+          "name": "Energy Department",
+          "id": 136,
+          "url": "https://www.federalregister.gov/agencies/energy-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/136",
+          "parent_id": null,
+          "slug": "energy-department"
+        },
+        {
+          "raw_name": "Federal Energy Regulatory Commission",
+          "name": "Federal Energy Regulatory Commission",
+          "id": 167,
+          "url": "https://www.federalregister.gov/agencies/federal-energy-regulatory-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/167",
+          "parent_id": 136,
+          "slug": "federal-energy-regulatory-commission"
+        }
+      ],
+      "excerpts": null
+    },
+    {
+      "title": "Combined Notice of Filings #2",
+      "type": "Notice",
+      "abstract": null,
+      "document_number": "2025-02529",
+      "html_url": "https://www.federalregister.gov/documents/2025/02/12/2025-02529/combined-notice-of-filings-2",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-02-12/pdf/2025-02529.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-02529.pdf?1739281512",
+      "publication_date": "2025-02-12",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF ENERGY",
+          "name": "Energy Department",
+          "id": 136,
+          "url": "https://www.federalregister.gov/agencies/energy-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/136",
+          "parent_id": null,
+          "slug": "energy-department"
+        },
+        {
+          "raw_name": "Federal Energy Regulatory Commission",
+          "name": "Federal Energy Regulatory Commission",
+          "id": 167,
+          "url": "https://www.federalregister.gov/agencies/federal-energy-regulatory-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/167",
+          "parent_id": 136,
+          "slug": "federal-energy-regulatory-commission"
+        }
+      ],
+      "excerpts": null
+    },
+    {
+      "title": "Ohio Power and Light, LLC; Notice of Application Tendered for Filing With the Commission and Soliciting Additional Study Requests and Establishing Procedural Schedule",
+      "type": "Notice",
+      "abstract": null,
+      "document_number": "2025-02518",
+      "html_url": "https://www.federalregister.gov/documents/2025/02/12/2025-02518/ohio-power-and-light-llc-notice-of-application-tendered-for-filing-with-the-commission-and",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-02-12/pdf/2025-02518.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-02518.pdf?1739281511",
+      "publication_date": "2025-02-12",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF ENERGY",
+          "name": "Energy Department",
+          "id": 136,
+          "url": "https://www.federalregister.gov/agencies/energy-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/136",
+          "parent_id": null,
+          "slug": "energy-department"
+        },
+        {
+          "raw_name": "Federal Energy Regulatory Commission",
+          "name": "Federal Energy Regulatory Commission",
+          "id": 167,
+          "url": "https://www.federalregister.gov/agencies/federal-energy-regulatory-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/167",
+          "parent_id": 136,
+          "slug": "federal-energy-regulatory-commission"
+        }
+      ],
+      "excerpts": null
+    },
+    {
+      "title": "Combined Notice of Filings #3",
+      "type": "Notice",
+      "abstract": null,
+      "document_number": "2025-02530",
+      "html_url": "https://www.federalregister.gov/documents/2025/02/12/2025-02530/combined-notice-of-filings-3",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-02-12/pdf/2025-02530.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-02530.pdf?1739281512",
+      "publication_date": "2025-02-12",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF ENERGY",
+          "name": "Energy Department",
+          "id": 136,
+          "url": "https://www.federalregister.gov/agencies/energy-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/136",
+          "parent_id": null,
+          "slug": "energy-department"
+        },
+        {
+          "raw_name": "Federal Energy Regulatory Commission",
+          "name": "Federal Energy Regulatory Commission",
+          "id": 167,
+          "url": "https://www.federalregister.gov/agencies/federal-energy-regulatory-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/167",
+          "parent_id": 136,
+          "slug": "federal-energy-regulatory-commission"
+        }
+      ],
+      "excerpts": null
+    },
+    {
+      "title": "Notice of Filing; Western Area Power Administration",
+      "type": "Notice",
+      "abstract": null,
+      "document_number": "2025-02515",
+      "html_url": "https://www.federalregister.gov/documents/2025/02/12/2025-02515/notice-of-filing-western-area-power-administration",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-02-12/pdf/2025-02515.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-02515.pdf?1739281511",
+      "publication_date": "2025-02-12",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF ENERGY",
+          "name": "Energy Department",
+          "id": 136,
+          "url": "https://www.federalregister.gov/agencies/energy-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/136",
+          "parent_id": null,
+          "slug": "energy-department"
+        },
+        {
+          "raw_name": "Federal Energy Regulatory Commission",
+          "name": "Federal Energy Regulatory Commission",
+          "id": 167,
+          "url": "https://www.federalregister.gov/agencies/federal-energy-regulatory-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/167",
+          "parent_id": 136,
+          "slug": "federal-energy-regulatory-commission"
+        }
+      ],
+      "excerpts": null
+    },
+    {
+      "title": "Pacific Gas & Electric Company; Notice of Application for Temporary Flow Modification Accepted for Filing, Soliciting Comments, Motions To Intervene, and Protests",
+      "type": "Notice",
+      "abstract": null,
+      "document_number": "2025-02517",
+      "html_url": "https://www.federalregister.gov/documents/2025/02/12/2025-02517/pacific-gas-and-electric-company-notice-of-application-for-temporary-flow-modification-accepted-for",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-02-12/pdf/2025-02517.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-02517.pdf?1739281511",
+      "publication_date": "2025-02-12",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF ENERGY",
+          "name": "Energy Department",
+          "id": 136,
+          "url": "https://www.federalregister.gov/agencies/energy-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/136",
+          "parent_id": null,
+          "slug": "energy-department"
+        },
+        {
+          "raw_name": "Federal Energy Regulatory Commission",
+          "name": "Federal Energy Regulatory Commission",
+          "id": 167,
+          "url": "https://www.federalregister.gov/agencies/federal-energy-regulatory-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/167",
+          "parent_id": 136,
+          "slug": "federal-energy-regulatory-commission"
+        }
+      ],
+      "excerpts": null
+    },
+    {
+      "title": "Combined Notice of Filings #4",
+      "type": "Notice",
+      "abstract": null,
+      "document_number": "2025-02533",
+      "html_url": "https://www.federalregister.gov/documents/2025/02/12/2025-02533/combined-notice-of-filings-4",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-02-12/pdf/2025-02533.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-02533.pdf?1739281513",
+      "publication_date": "2025-02-12",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF ENERGY",
+          "name": "Energy Department",
+          "id": 136,
+          "url": "https://www.federalregister.gov/agencies/energy-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/136",
+          "parent_id": null,
+          "slug": "energy-department"
+        },
+        {
+          "raw_name": "Federal Energy Regulatory Commission",
+          "name": "Federal Energy Regulatory Commission",
+          "id": 167,
+          "url": "https://www.federalregister.gov/agencies/federal-energy-regulatory-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/167",
+          "parent_id": 136,
+          "slug": "federal-energy-regulatory-commission"
+        }
+      ],
+      "excerpts": null
+    },
+    {
+      "title": "Combined Notice of Filings #1",
+      "type": "Notice",
+      "abstract": null,
+      "document_number": "2025-02531",
+      "html_url": "https://www.federalregister.gov/documents/2025/02/12/2025-02531/combined-notice-of-filings-1",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-02-12/pdf/2025-02531.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-02531.pdf?1739281513",
+      "publication_date": "2025-02-12",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF ENERGY",
+          "name": "Energy Department",
+          "id": 136,
+          "url": "https://www.federalregister.gov/agencies/energy-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/136",
+          "parent_id": null,
+          "slug": "energy-department"
+        },
+        {
+          "raw_name": "Federal Energy Regulatory Commission",
+          "name": "Federal Energy Regulatory Commission",
+          "id": 167,
+          "url": "https://www.federalregister.gov/agencies/federal-energy-regulatory-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/167",
+          "parent_id": 136,
+          "slug": "federal-energy-regulatory-commission"
+        }
+      ],
+      "excerpts": null
+    },
+    {
+      "title": "Appraisal Subcommittee; Notice of Meeting",
+      "type": "Notice",
+      "abstract": null,
+      "document_number": "2025-02538",
+      "html_url": "https://www.federalregister.gov/documents/2025/02/12/2025-02538/appraisal-subcommittee-notice-of-meeting",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-02-12/pdf/2025-02538.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-02538.pdf?1739281513",
+      "publication_date": "2025-02-12",
+      "agencies": [
+        {
+          "raw_name": "FEDERAL FINANCIAL INSTITUTIONS EXAMINATION COUNCIL",
+          "name": "Federal Financial Institutions Examination Council",
+          "id": 168,
+          "url": "https://www.federalregister.gov/agencies/federal-financial-institutions-examination-council",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/168",
+          "parent_id": null,
+          "slug": "federal-financial-institutions-examination-council"
+        }
+      ],
+      "excerpts": null
+    },
+    {
+      "title": "Change in Bank Control Notices; Acquisitions of Shares of a Bank or Bank Holding Company",
+      "type": "Notice",
+      "abstract": null,
+      "document_number": "2025-02521",
+      "html_url": "https://www.federalregister.gov/documents/2025/02/12/2025-02521/change-in-bank-control-notices-acquisitions-of-shares-of-a-bank-or-bank-holding-company",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-02-12/pdf/2025-02521.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-02521.pdf?1739281512",
+      "publication_date": "2025-02-12",
+      "agencies": [
+        {
+          "raw_name": "FEDERAL RESERVE SYSTEM",
+          "name": "Federal Reserve System",
+          "id": 188,
+          "url": "https://www.federalregister.gov/agencies/federal-reserve-system",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/188",
+          "parent_id": null,
+          "slug": "federal-reserve-system"
+        }
+      ],
+      "excerpts": null
+    },
+    {
+      "title": "Amended Notice of Implementation of Additional Duties on Products of the People's Republic of China Pursuant to the President's February 1, 2025 Executive Order Imposing Duties To Address the Synthetic Opioid Supply Chain in the People's Republic of China",
+      "type": "Notice",
+      "abstract": "In order to effectuate the President's February 1, 2025 Executive order \"Imposing Duties to Address the Synthetic Opioid Supply Chain in the People's Republic of China,\" as amended by the President's February 5, 2025 Executive order \"Amendment to Duties Addressing the Synthetic Opioid Supply Chain in the People's Republic of China,\" which imposed specified rates of duty on imports of articles that are products of the People's Republic of China (PRC or China), the Secretary of Homeland Security is amending its February 5, 2025 notice in the Federal Register, \"Implementation of Additional Duties on Products of the People's Republic of China Pursuant to the President's February 1, 2025 Executive Order Imposing Duties to Address the Synthetic Opioid Supply Chain in the People's Republic of China,\" to reflect that appropriate action was needed to modify the Harmonized Tariff Schedule of the United States (HTSUS) as set out in the Annex to this notice as well as changes to treatment of goods under what is commonly known as the de minimis exemption.",
+      "document_number": "2025-02576",
+      "html_url": "https://www.federalregister.gov/documents/2025/02/12/2025-02576/amended-notice-of-implementation-of-additional-duties-on-products-of-the-peoples-republic-of-china",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-02-12/pdf/2025-02576.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-02576.pdf?1739204107",
+      "publication_date": "2025-02-12",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF HOMELAND SECURITY",
+          "name": "Homeland Security Department",
+          "id": 227,
+          "url": "https://www.federalregister.gov/agencies/homeland-security-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/227",
+          "parent_id": null,
+          "slug": "homeland-security-department"
+        },
+        {
+          "raw_name": "U.S. Customs and Border Protection",
+          "name": "U.S. Customs and Border Protection",
+          "id": 501,
+          "url": "https://www.federalregister.gov/agencies/u-s-customs-and-border-protection",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/501",
+          "parent_id": 227,
+          "slug": "u-s-customs-and-border-protection"
+        }
+      ],
+      "excerpts": "In order to effectuate the President's February 1, 2025 Executive order \"Imposing Duties to Address the Synthetic Opioid Supply Chain in the People's Republic of China,\" as amended by the President's February 5, 2025 Executive order \"Amendment to..."
+    },
+    {
+      "title": "Presidential Memorandum; Lumbee Tribe of North Carolina",
+      "type": "Notice",
+      "abstract": "This notice publishes the Presidential Memorandum titled \"Federal Recognition of the Lumbee Tribe of North Carolina.\"",
+      "document_number": "2025-02510",
+      "html_url": "https://www.federalregister.gov/documents/2025/02/12/2025-02510/presidential-memorandum-lumbee-tribe-of-north-carolina",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-02-12/pdf/2025-02510.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-02510.pdf?1739281511",
+      "publication_date": "2025-02-12",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF THE INTERIOR",
+          "name": "Interior Department",
+          "id": 253,
+          "url": "https://www.federalregister.gov/agencies/interior-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/253",
+          "parent_id": null,
+          "slug": "interior-department"
+        },
+        {
+          "raw_name": "Bureau of Indian Affairs",
+          "name": "Indian Affairs Bureau",
+          "id": 234,
+          "url": "https://www.federalregister.gov/agencies/indian-affairs-bureau",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/234",
+          "parent_id": 253,
+          "slug": "indian-affairs-bureau"
+        }
+      ],
+      "excerpts": "This notice publishes the Presidential Memorandum titled \"Federal Recognition of the Lumbee Tribe of North Carolina.\""
+    },
+    {
+      "title": "Hot-Rolled Steel Products From China, India, Indonesia, Taiwan, Thailand, and Ukraine; Scheduling of Full Five-Year Reviews",
+      "type": "Notice",
+      "abstract": "The Commission hereby gives notice of the scheduling of full reviews pursuant to the Tariff Act of 1930 (\"the Act\") to determine whether revocation of the antidumping duty and countervailing duty orders on hot-rolled steel products from China, India, Indonesia, Taiwan, Thailand, and Ukraine would be likely to lead to continuation or recurrence of material injury within a reasonably foreseeable time. The Commission has determined to exercise its authority to extend the review period by up to 90 days.",
+      "document_number": "2025-02546",
+      "html_url": "https://www.federalregister.gov/documents/2025/02/12/2025-02546/hot-rolled-steel-products-from-china-india-indonesia-taiwan-thailand-and-ukraine-scheduling-of-full",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-02-12/pdf/2025-02546.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-02546.pdf?1739281514",
+      "publication_date": "2025-02-12",
+      "agencies": [
+        {
+          "raw_name": "INTERNATIONAL TRADE COMMISSION",
+          "name": "International Trade Commission",
+          "id": 262,
+          "url": "https://www.federalregister.gov/agencies/international-trade-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/262",
+          "parent_id": null,
+          "slug": "international-trade-commission"
+        }
+      ],
+      "excerpts": "The Commission hereby gives notice of the scheduling of full reviews pursuant to the Tariff Act of 1930 (\"the Act\") to determine whether revocation of the antidumping duty and countervailing duty orders on hot-rolled steel products from China, India,..."
+    },
+    {
+      "title": "Meeting of the Advisory Committee",
+      "type": "Notice",
+      "abstract": "This notice amends the location of the partially closed meeting of the Advisory Committee on Actuarial Examinations previously announced in the Federal Register of December 16, 2024.",
+      "document_number": "2025-02509",
+      "html_url": "https://www.federalregister.gov/documents/2025/02/12/2025-02509/meeting-of-the-advisory-committee",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-02-12/pdf/2025-02509.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-02509.pdf?1739281511",
+      "publication_date": "2025-02-12",
+      "agencies": [
+        {
+          "raw_name": "JOINT BOARD FOR THE ENROLLMENT OF ACTUARIES",
+          "name": "Joint Board for Enrollment of Actuaries",
+          "id": 265,
+          "url": "https://www.federalregister.gov/agencies/joint-board-for-enrollment-of-actuaries",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/265",
+          "parent_id": null,
+          "slug": "joint-board-for-enrollment-of-actuaries"
+        }
+      ],
+      "excerpts": "This notice amends the location of the partially closed meeting of the Advisory Committee on Actuarial Examinations previously announced in the Federal Register of December 16, 2024."
+    },
+    {
+      "title": "Alan T. Waterman Award Committee; Notice of Meeting",
+      "type": "Notice",
+      "abstract": null,
+      "document_number": "2025-02493",
+      "html_url": "https://www.federalregister.gov/documents/2025/02/12/2025-02493/alan-t-waterman-award-committee-notice-of-meeting",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-02-12/pdf/2025-02493.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-02493.pdf?1739281509",
+      "publication_date": "2025-02-12",
+      "agencies": [
+        {
+          "raw_name": "NATIONAL SCIENCE FOUNDATION",
+          "name": "National Science Foundation",
+          "id": 366,
+          "url": "https://www.federalregister.gov/agencies/national-science-foundation",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/366",
+          "parent_id": null,
+          "slug": "national-science-foundation"
+        }
+      ],
+      "excerpts": null
+    },
+    {
+      "title": "New Postal Products",
+      "type": "Notice",
+      "abstract": "The Commission is noticing a recent Postal Service filing for the Commission's consideration concerning a negotiated service agreement. This notice informs the public of the filing, invites public comment, and takes other administrative steps.",
+      "document_number": "2025-02526",
+      "html_url": "https://www.federalregister.gov/documents/2025/02/12/2025-02526/new-postal-products",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-02-12/pdf/2025-02526.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-02526.pdf?1739281512",
+      "publication_date": "2025-02-12",
+      "agencies": [
+        {
+          "raw_name": "POSTAL REGULATORY COMMISSION",
+          "name": "Postal Regulatory Commission",
+          "id": 409,
+          "url": "https://www.federalregister.gov/agencies/postal-regulatory-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/409",
+          "parent_id": null,
+          "slug": "postal-regulatory-commission"
+        }
+      ],
+      "excerpts": "The Commission is noticing a recent Postal Service filing for the Commission's consideration concerning a negotiated service agreement. This notice informs the public of the filing, invites public comment, and takes other administrative steps."
+    },
+    {
+      "title": "International Product Change-Priority Mail Express International, Priority Mail International & First-Class Package International Service Agreement",
+      "type": "Notice",
+      "abstract": "The Postal Service gives notice of filing a request with the Postal Regulatory Commission to add a Priority Mail Express International, Priority Mail International & First-Class Package International Service contract to the list of Negotiated Service Agreements in the Competitive Product List in the Mail Classification Schedule.",
+      "document_number": "2025-02489",
+      "html_url": "https://www.federalregister.gov/documents/2025/02/12/2025-02489/international-product-change-priority-mail-express-international-priority-mail-international-and",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-02-12/pdf/2025-02489.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-02489.pdf?1739281508",
+      "publication_date": "2025-02-12",
+      "agencies": [
+        {
+          "raw_name": "POSTAL SERVICE",
+          "name": "Postal Service",
+          "id": 410,
+          "url": "https://www.federalregister.gov/agencies/postal-service",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/410",
+          "parent_id": null,
+          "slug": "postal-service"
+        }
+      ],
+      "excerpts": "The Postal Service gives notice of filing a request with the Postal Regulatory Commission to add a Priority Mail Express International, Priority Mail International & First-Class Package International Service contract to the list of Negotiated Service..."
+    },
+    {
+      "title": "Performance Review Board Membership",
+      "type": "Notice",
+      "abstract": "The Office of Science and Technology Policy publishes the names of the members selected to serve on its SES Performance Review Board (PRB).",
+      "document_number": "2025-02508",
+      "html_url": "https://www.federalregister.gov/documents/2025/02/12/2025-02508/performance-review-board-membership",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-02-12/pdf/2025-02508.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-02508.pdf?1739281511",
+      "publication_date": "2025-02-12",
+      "agencies": [
+        {
+          "raw_name": "OFFICE OF SCIENCE AND TECHNOLOGY POLICY",
+          "name": "Science and Technology Policy Office",
+          "id": 464,
+          "url": "https://www.federalregister.gov/agencies/science-and-technology-policy-office",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/464",
+          "parent_id": null,
+          "slug": "science-and-technology-policy-office"
+        }
+      ],
+      "excerpts": "The Office of Science and Technology Policy publishes the names of the members selected to serve on its SES Performance Review Board (PRB)."
+    },
+    {
+      "title": "Self-Regulatory Organizations; MIAX Sapphire, LLC; Notice of Filing and Order Granting Accelerated Approval of a Proposed Rule Change To Amend Exchange Rule 1014, Imposition of Fines for Minor Rule Violations",
+      "type": "Notice",
+      "abstract": null,
+      "document_number": "2025-02496",
+      "html_url": "https://www.federalregister.gov/documents/2025/02/12/2025-02496/self-regulatory-organizations-miax-sapphire-llc-notice-of-filing-and-order-granting-accelerated",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-02-12/pdf/2025-02496.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-02496.pdf?1739281509",
+      "publication_date": "2025-02-12",
+      "agencies": [
+        {
+          "raw_name": "SECURITIES AND EXCHANGE COMMISSION",
+          "name": "Securities and Exchange Commission",
+          "id": 466,
+          "url": "https://www.federalregister.gov/agencies/securities-and-exchange-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/466",
+          "parent_id": null,
+          "slug": "securities-and-exchange-commission"
+        }
+      ],
+      "excerpts": null
+    },
+    {
+      "title": "SEG Partners Long/Short Equity Fund and Select Equity Group, L.P.",
+      "type": "Notice",
+      "abstract": null,
+      "document_number": "2025-02490",
+      "html_url": "https://www.federalregister.gov/documents/2025/02/12/2025-02490/seg-partners-longshort-equity-fund-and-select-equity-group-lp",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-02-12/pdf/2025-02490.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-02490.pdf?1739281508",
+      "publication_date": "2025-02-12",
+      "agencies": [
+        {
+          "raw_name": "SECURITIES AND EXCHANGE COMMISSION",
+          "name": "Securities and Exchange Commission",
+          "id": 466,
+          "url": "https://www.federalregister.gov/agencies/securities-and-exchange-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/466",
+          "parent_id": null,
+          "slug": "securities-and-exchange-commission"
+        }
+      ],
+      "excerpts": null
+    },
+    {
+      "title": "Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Delay the Implementation of the New Options Regulatory Fee (ORF) and ORF Methodology Proposed in SR-NASDAQ-2024-078",
+      "type": "Notice",
+      "abstract": null,
+      "document_number": "2025-02498",
+      "html_url": "https://www.federalregister.gov/documents/2025/02/12/2025-02498/self-regulatory-organizations-the-nasdaq-stock-market-llc-notice-of-filing-and-immediate",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-02-12/pdf/2025-02498.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-02498.pdf?1739281509",
+      "publication_date": "2025-02-12",
+      "agencies": [
+        {
+          "raw_name": "SECURITIES AND EXCHANGE COMMISSION",
+          "name": "Securities and Exchange Commission",
+          "id": 466,
+          "url": "https://www.federalregister.gov/agencies/securities-and-exchange-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/466",
+          "parent_id": null,
+          "slug": "securities-and-exchange-commission"
+        }
+      ],
+      "excerpts": null
+    },
+    {
+      "title": "Self-Regulatory Organizations; Nasdaq PHLX LLC; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Delay the Implementation of the New Options Regulatory Fee (ORF) and ORF Methodology Proposed in SR-Phlx-2024-66",
+      "type": "Notice",
+      "abstract": null,
+      "document_number": "2025-02500",
+      "html_url": "https://www.federalregister.gov/documents/2025/02/12/2025-02500/self-regulatory-organizations-nasdaq-phlx-llc-notice-of-filing-and-immediate-effectiveness-of-a",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-02-12/pdf/2025-02500.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-02500.pdf?1739281510",
+      "publication_date": "2025-02-12",
+      "agencies": [
+        {
+          "raw_name": "SECURITIES AND EXCHANGE COMMISSION",
+          "name": "Securities and Exchange Commission",
+          "id": 466,
+          "url": "https://www.federalregister.gov/agencies/securities-and-exchange-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/466",
+          "parent_id": null,
+          "slug": "securities-and-exchange-commission"
+        }
+      ],
+      "excerpts": null
+    },
+    {
+      "title": "Venerable Variable Insurance Trust and Venerable Investment Advisers, LLC",
+      "type": "Notice",
+      "abstract": null,
+      "document_number": "2025-02491",
+      "html_url": "https://www.federalregister.gov/documents/2025/02/12/2025-02491/venerable-variable-insurance-trust-and-venerable-investment-advisers-llc",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-02-12/pdf/2025-02491.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-02491.pdf?1739281509",
+      "publication_date": "2025-02-12",
+      "agencies": [
+        {
+          "raw_name": "SECURITIES AND EXCHANGE COMMISSION",
+          "name": "Securities and Exchange Commission",
+          "id": 466,
+          "url": "https://www.federalregister.gov/agencies/securities-and-exchange-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/466",
+          "parent_id": null,
+          "slug": "securities-and-exchange-commission"
+        }
+      ],
+      "excerpts": null
+    },
+    {
+      "title": "Release of Waybill Data",
+      "type": "Notice",
+      "abstract": null,
+      "document_number": "2025-02520",
+      "html_url": "https://www.federalregister.gov/documents/2025/02/12/2025-02520/release-of-waybill-data",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-02-12/pdf/2025-02520.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-02520.pdf?1739281512",
+      "publication_date": "2025-02-12",
+      "agencies": [
+        {
+          "raw_name": "SURFACE TRANSPORTATION BOARD",
+          "name": "Surface Transportation Board",
+          "id": 481,
+          "url": "https://www.federalregister.gov/agencies/surface-transportation-board",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/481",
+          "parent_id": null,
+          "slug": "surface-transportation-board"
+        }
+      ],
+      "excerpts": null
+    },
+    {
+      "title": "Sunshine Act Meetings",
+      "type": "Notice",
+      "abstract": null,
+      "document_number": "2025-02614",
+      "html_url": "https://www.federalregister.gov/documents/2025/02/12/2025-02614/sunshine-act-meetings",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-02-12/pdf/2025-02614.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-02614.pdf?1739222106",
+      "publication_date": "2025-02-12",
+      "agencies": [
+        {
+          "raw_name": "TENNESSEE VALLEY AUTHORITY",
+          "name": "Tennessee Valley Authority",
+          "id": 486,
+          "url": "https://www.federalregister.gov/agencies/tennessee-valley-authority",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/486",
+          "parent_id": null,
+          "slug": "tennessee-valley-authority"
+        }
+      ],
+      "excerpts": null
+    },
+    {
+      "title": "Meeting of the Regional Energy Resource Council",
+      "type": "Notice",
+      "abstract": "The TVA Regional Energy Resource Council (RERC) will hold a meeting on February 24 and 25, to receive an update and provide advice on TVA's 2025 Integrated Resource Plan (IRP). The IRP provides strategic direction on how TVA will continue to provide low-cost, reliable, resilient, and increasingly cleaner electricity to the 10 million residents of the Valley region.",
+      "document_number": "2025-02540",
+      "html_url": "https://www.federalregister.gov/documents/2025/02/12/2025-02540/meeting-of-the-regional-energy-resource-council",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-02-12/pdf/2025-02540.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-02540.pdf?1739281513",
+      "publication_date": "2025-02-12",
+      "agencies": [
+        {
+          "raw_name": "TENNESSEE VALLEY AUTHORITY",
+          "name": "Tennessee Valley Authority",
+          "id": 486,
+          "url": "https://www.federalregister.gov/agencies/tennessee-valley-authority",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/486",
+          "parent_id": null,
+          "slug": "tennessee-valley-authority"
+        }
+      ],
+      "excerpts": "The TVA Regional Energy Resource Council (RERC) will hold a meeting on February 24 and 25, to receive an update and provide advice on TVA's 2025 Integrated Resource Plan (IRP). The IRP provides strategic direction on how TVA will continue to provide..."
+    },
+    {
+      "title": "Third Party Contracting Guidance; Delay of Applicability Date",
+      "type": "Notice",
+      "abstract": "This document delays the applicability date of the January 16, 2025, Third-Party Contracting Guidance Circular (C 4220.1G), which makes updates to reflect statutory and regulatory changes that have occurred since the previous update in C 4220.1F.",
+      "document_number": "2025-02519",
+      "html_url": "https://www.federalregister.gov/documents/2025/02/12/2025-02519/third-party-contracting-guidance-delay-of-applicability-date",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-02-12/pdf/2025-02519.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-02519.pdf?1739281511",
+      "publication_date": "2025-02-12",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "parent_id": null,
+          "slug": "transportation-department"
+        },
+        {
+          "raw_name": "Federal Transit Administration",
+          "name": "Federal Transit Administration",
+          "id": 193,
+          "url": "https://www.federalregister.gov/agencies/federal-transit-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/193",
+          "parent_id": 492,
+          "slug": "federal-transit-administration"
+        }
+      ],
+      "excerpts": "This document delays the applicability date of the January 16, 2025, Third-Party Contracting Guidance Circular (C 4220.1G), which makes updates to reflect statutory and regulatory changes that have occurred since the previous update in C 4220.1F."
+    },
+    {
+      "title": "Eradicating Anti-Christian Bias",
+      "type": "Presidential Document",
+      "abstract": null,
+      "document_number": "2025-02611",
+      "html_url": "https://www.federalregister.gov/documents/2025/02/12/2025-02611/eradicating-anti-christian-bias",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-02-12/pdf/2025-02611.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-02611.pdf?1739281514",
+      "publication_date": "2025-02-12",
+      "agencies": [
+        {
+          "raw_name": "EXECUTIVE OFFICE OF THE PRESIDENT",
+          "name": "Executive Office of the President",
+          "id": 538,
+          "url": "https://www.federalregister.gov/agencies/executive-office-of-the-president",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/538",
+          "parent_id": null,
+          "slug": "executive-office-of-the-president"
+        }
+      ],
+      "excerpts": null
+    },
+    {
+      "title": "Imposing Sanctions on the International Criminal Court",
+      "type": "Presidential Document",
+      "abstract": null,
+      "document_number": "2025-02612",
+      "html_url": "https://www.federalregister.gov/documents/2025/02/12/2025-02612/imposing-sanctions-on-the-international-criminal-court",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-02-12/pdf/2025-02612.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-02612.pdf?1739281515",
+      "publication_date": "2025-02-12",
+      "agencies": [
+        {
+          "raw_name": "EXECUTIVE OFFICE OF THE PRESIDENT",
+          "name": "Executive Office of the President",
+          "id": 538,
+          "url": "https://www.federalregister.gov/agencies/executive-office-of-the-president",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/538",
+          "parent_id": null,
+          "slug": "executive-office-of-the-president"
+        }
+      ],
+      "excerpts": null
+    },
+    {
+      "title": "Addressing Egregious Actions of the Republic of South Africa",
+      "type": "Presidential Document",
+      "abstract": null,
+      "document_number": "2025-02630",
+      "html_url": "https://www.federalregister.gov/documents/2025/02/12/2025-02630/addressing-egregious-actions-of-the-republic-of-south-africa",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-02-12/pdf/2025-02630.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-02630.pdf?1739291167",
+      "publication_date": "2025-02-12",
+      "agencies": [
+        {
+          "raw_name": "EXECUTIVE OFFICE OF THE PRESIDENT",
+          "name": "Executive Office of the President",
+          "id": 538,
+          "url": "https://www.federalregister.gov/agencies/executive-office-of-the-president",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/538",
+          "parent_id": null,
+          "slug": "executive-office-of-the-president"
+        }
+      ],
+      "excerpts": null
+    },
+    {
+      "title": "Establishment of the White House Faith Office",
+      "type": "Presidential Document",
+      "abstract": null,
+      "document_number": "2025-02635",
+      "html_url": "https://www.federalregister.gov/documents/2025/02/12/2025-02635/establishment-of-the-white-house-faith-office",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-02-12/pdf/2025-02635.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-02635.pdf?1739291167",
+      "publication_date": "2025-02-12",
+      "agencies": [
+        {
+          "raw_name": "EXECUTIVE OFFICE OF THE PRESIDENT",
+          "name": "Executive Office of the President",
+          "id": 538,
+          "url": "https://www.federalregister.gov/agencies/executive-office-of-the-president",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/538",
+          "parent_id": null,
+          "slug": "executive-office-of-the-president"
+        }
+      ],
+      "excerpts": null
+    },
+    {
+      "title": "Protecting Second Amendment Rights",
+      "type": "Presidential Document",
+      "abstract": null,
+      "document_number": "2025-02636",
+      "html_url": "https://www.federalregister.gov/documents/2025/02/12/2025-02636/protecting-second-amendment-rights",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-02-12/pdf/2025-02636.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-02636.pdf?1739291166",
+      "publication_date": "2025-02-12",
+      "agencies": [
+        {
+          "raw_name": "EXECUTIVE OFFICE OF THE PRESIDENT",
+          "name": "Executive Office of the President",
+          "id": 538,
+          "url": "https://www.federalregister.gov/agencies/executive-office-of-the-president",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/538",
+          "parent_id": null,
+          "slug": "executive-office-of-the-president"
+        }
+      ],
+      "excerpts": null
+    },
+    {
+      "title": "Gulf of America Day, 2025",
+      "type": "Presidential Document",
+      "abstract": null,
+      "document_number": "2025-02637",
+      "html_url": "https://www.federalregister.gov/documents/2025/02/12/2025-02637/gulf-of-america-day-2025",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-02-12/pdf/2025-02637.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-02637.pdf?1739291166",
+      "publication_date": "2025-02-12",
+      "agencies": [
+        {
+          "raw_name": "EXECUTIVE OFFICE OF THE PRESIDENT",
+          "name": "Executive Office of the President",
+          "id": 538,
+          "url": "https://www.federalregister.gov/agencies/executive-office-of-the-president",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/538",
+          "parent_id": null,
+          "slug": "executive-office-of-the-president"
+        }
+      ],
+      "excerpts": null
+    },
+    {
+      "title": "Agency Information Collection Activities: Proposed Request",
+      "type": "Notice",
+      "abstract": null,
+      "document_number": "2025-02549",
+      "html_url": "https://www.federalregister.gov/documents/2025/02/12/2025-02549/agency-information-collection-activities-proposed-request",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-02-12/pdf/2025-02549.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-02549.pdf?1739281514",
+      "publication_date": "2025-02-12",
+      "agencies": [
+        {
+          "raw_name": "Social Security Administration",
+          "name": "Social Security Administration",
+          "id": 470,
+          "url": "https://www.federalregister.gov/agencies/social-security-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/470",
+          "parent_id": null,
+          "slug": "social-security-administration"
+        }
+      ],
+      "excerpts": null
+    },
+    {
+      "title": "Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Notice of Filing of Proposed Rule Change To Update Certain Representations Relating to Shares of the iShares Bitcoin Trust To Allow for In-Kind Transfers of the Trust's Bitcoin",
+      "type": "Notice",
+      "abstract": null,
+      "document_number": "2025-02495",
+      "html_url": "https://www.federalregister.gov/documents/2025/02/12/2025-02495/self-regulatory-organizations-the-nasdaq-stock-market-llc-notice-of-filing-of-proposed-rule-change",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-02-12/pdf/2025-02495.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-02495.pdf?1739281509",
+      "publication_date": "2025-02-12",
+      "agencies": [
+        {
+          "raw_name": "SECURITIES AND EXCHANGE COMMISSION",
+          "name": "Securities and Exchange Commission",
+          "id": 466,
+          "url": "https://www.federalregister.gov/agencies/securities-and-exchange-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/466",
+          "parent_id": null,
+          "slug": "securities-and-exchange-commission"
+        }
+      ],
+      "excerpts": null
+    },
+    {
+      "title": "Self-Regulatory Organizations; NYSE Arca, Inc.; Notice of Filing of Proposed Rule Change, as Modified by Amendment No. 1, To List and Trade Shares of the Grayscale Litecoin Trust Under NYSE Arca Rule 8.201-E (Commodity-Based Trust Shares)",
+      "type": "Notice",
+      "abstract": null,
+      "document_number": "2025-02497",
+      "html_url": "https://www.federalregister.gov/documents/2025/02/12/2025-02497/self-regulatory-organizations-nyse-arca-inc-notice-of-filing-of-proposed-rule-change-as-modified-by",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-02-12/pdf/2025-02497.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-02497.pdf?1739281509",
+      "publication_date": "2025-02-12",
+      "agencies": [
+        {
+          "raw_name": "SECURITIES AND EXCHANGE COMMISSION",
+          "name": "Securities and Exchange Commission",
+          "id": 466,
+          "url": "https://www.federalregister.gov/agencies/securities-and-exchange-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/466",
+          "parent_id": null,
+          "slug": "securities-and-exchange-commission"
+        }
+      ],
+      "excerpts": null
+    },
+    {
+      "title": "Self-Regulatory Organizations; NYSE Arca, Inc.; Notice of Filing of Proposed Rule Change, as Modified by Amendment No. 1, To List and Trade Shares of the Grayscale Solana Trust Under NYSE Arca Rule 8.201-E, Commodity-Based Trust Shares",
+      "type": "Notice",
+      "abstract": null,
+      "document_number": "2025-02499",
+      "html_url": "https://www.federalregister.gov/documents/2025/02/12/2025-02499/self-regulatory-organizations-nyse-arca-inc-notice-of-filing-of-proposed-rule-change-as-modified-by",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-02-12/pdf/2025-02499.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-02499.pdf?1739281510",
+      "publication_date": "2025-02-12",
+      "agencies": [
+        {
+          "raw_name": "SECURITIES AND EXCHANGE COMMISSION",
+          "name": "Securities and Exchange Commission",
+          "id": 466,
+          "url": "https://www.federalregister.gov/agencies/securities-and-exchange-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/466",
+          "parent_id": null,
+          "slug": "securities-and-exchange-commission"
+        }
+      ],
+      "excerpts": null
+    },
+    {
+      "title": "Order Modifying Licenses and Establishing Initial Final Safety Analysis Report Update Due Dates Consistent With the Non-Power Production or Utilization Facility License Renewal Rule",
+      "type": "Notice",
+      "abstract": "The U.S. Nuclear Regulatory Commission (NRC) has issued an Order to the licensees of non-power production or utilization facilities (NPUFs) identified in the Attachment to the Order. The Order modifies certain current NPUF licenses and establishes initial final safety analysis report update due dates for certain existing NPUFs consistent with the Non-Power Production or Utilization Facility License Renewal Rule dated December 30, 2024.",
+      "document_number": "2025-02523",
+      "html_url": "https://www.federalregister.gov/documents/2025/02/12/2025-02523/order-modifying-licenses-and-establishing-initial-final-safety-analysis-report-update-due-dates",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-02-12/pdf/2025-02523.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-02523.pdf?1739281512",
+      "publication_date": "2025-02-12",
+      "agencies": [
+        {
+          "raw_name": "NUCLEAR REGULATORY COMMISSION",
+          "name": "Nuclear Regulatory Commission",
+          "id": 383,
+          "url": "https://www.federalregister.gov/agencies/nuclear-regulatory-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/383",
+          "parent_id": null,
+          "slug": "nuclear-regulatory-commission"
+        }
+      ],
+      "excerpts": "The U.S. Nuclear Regulatory Commission (NRC) has issued an Order to the licensees of non-power production or utilization facilities (NPUFs) identified in the Attachment to the Order. The Order modifies certain current NPUF licenses and establishes..."
+    },
+    {
+      "title": "Single Family Housing Guaranteed Loan Program Changes Related to Special Servicing Options; Correction",
+      "type": "Rule",
+      "abstract": "The Rural Housing Service (RHS or Agency), a Rural Development (RD) agency of USDA, published a final rule on August 15, 2024, to amend the current regulations regarding Special Servicing Options and adjust the Mortgage Recovery Advance (MRA) process. The February 11, 2025, effective date of that final rule is being deferred to April 14, 2025.",
+      "document_number": "2025-02551",
+      "html_url": "https://www.federalregister.gov/documents/2025/02/12/2025-02551/single-family-housing-guaranteed-loan-program-changes-related-to-special-servicing-options",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-02-12/pdf/2025-02551.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-02551.pdf?1739195114",
+      "publication_date": "2025-02-12",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF AGRICULTURE",
+          "name": "Agriculture Department",
+          "id": 12,
+          "url": "https://www.federalregister.gov/agencies/agriculture-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/12",
+          "parent_id": null,
+          "slug": "agriculture-department"
+        },
+        {
+          "raw_name": "Rural Housing Service",
+          "name": "Rural Housing Service",
+          "id": 458,
+          "url": "https://www.federalregister.gov/agencies/rural-housing-service",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/458",
+          "parent_id": 12,
+          "slug": "rural-housing-service"
+        }
+      ],
+      "excerpts": "The Rural Housing Service (RHS or Agency), a Rural Development (RD) agency of USDA, published a final rule on August 15, 2024, to amend the current regulations regarding Special Servicing Options and adjust the Mortgage Recovery Advance (MRA) process...."
+    },
+    {
+      "title": "Airworthiness Directives; Saab AB Airplanes",
+      "type": "Rule",
+      "abstract": "The FAA is superseding Airworthiness Directive (AD) 2017-21- 05, which applied to certain Saab AB Model 340A (SAAB/SF340A) and SAAB 340B airplanes. AD 2017-21-05 required revising the existing maintenance or inspection program, as applicable, to incorporate airworthiness limitations, including new inspection tasks for the drag brace support fitting of the main landing gear (MLG) and tasks related to the corrosion prevention and control program (CPCP). This AD was prompted by a determination that new or more restrictive airworthiness limitations are necessary. This AD continues to require the actions in AD 2017-21-05 and requires revising the existing maintenance or inspection program, as applicable, to incorporate new or more restrictive airworthiness limitations, as specified in a European Union Aviation Safety Agency (EASA) AD, which is incorporated by reference (IBR). The FAA is issuing this AD to address the unsafe condition on these products.",
+      "document_number": "2025-02446",
+      "html_url": "https://www.federalregister.gov/documents/2025/02/12/2025-02446/airworthiness-directives-saab-ab-airplanes",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-02-12/pdf/2025-02446.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-02446.pdf?1739281508",
+      "publication_date": "2025-02-12",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "parent_id": null,
+          "slug": "transportation-department"
+        },
+        {
+          "raw_name": "Federal Aviation Administration",
+          "name": "Federal Aviation Administration",
+          "id": 159,
+          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+          "parent_id": 492,
+          "slug": "federal-aviation-administration"
+        }
+      ],
+      "excerpts": "The FAA is superseding Airworthiness Directive (AD) 2017-21- 05, which applied to certain Saab AB Model 340A (SAAB/SF340A) and SAAB 340B airplanes. AD 2017-21-05 required revising the existing maintenance or inspection program, as applicable, to..."
+    },
+    {
+      "title": "Airworthiness Directives; DAHER AEROSPACE (Type Certificate Previously Held by SOCATA) Airplanes",
+      "type": "Rule",
+      "abstract": "The FAA is adopting a new airworthiness directive (AD) for certain DAHER AEROSPACE (DAHER) Model TBM 700 airplanes. This AD was prompted by certain existing emergency procedures in the pilot's operating handbook (POH) that cannot be fully accomplished since certain equipment cannot be disconnected by the pilot(s) from the flight deck. This AD requires revising the existing POH for your airplane to provide the flight crew with corrected emergency procedures. The FAA is issuing this AD to address the unsafe condition on these products.",
+      "document_number": "2025-02409",
+      "html_url": "https://www.federalregister.gov/documents/2025/02/12/2025-02409/airworthiness-directives-daher-aerospace-type-certificate-previously-held-by-socata-airplanes",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-02-12/pdf/2025-02409.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-02409.pdf?1739281508",
+      "publication_date": "2025-02-12",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "parent_id": null,
+          "slug": "transportation-department"
+        },
+        {
+          "raw_name": "Federal Aviation Administration",
+          "name": "Federal Aviation Administration",
+          "id": 159,
+          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+          "parent_id": 492,
+          "slug": "federal-aviation-administration"
+        }
+      ],
+      "excerpts": "The FAA is adopting a new airworthiness directive (AD) for certain DAHER AEROSPACE (DAHER) Model TBM 700 airplanes. This AD was prompted by certain existing emergency procedures in the pilot's operating handbook (POH) that cannot be fully accomplished..."
+    },
+    {
+      "title": "Airworthiness Directives; ATR-GIE Avions de Transport R\u00e9gional Airplanes",
+      "type": "Rule",
+      "abstract": "The FAA is adopting a new airworthiness directive (AD) for certain ATR--GIE Avions de Transport R[eacute]gional Model ATR42 and ATR72 airplanes. This AD was prompted by a report that a flight deck emergency escape hatch was difficult to open due to the hose ends being connected to the hatch with incorrect parts and/or installed collars with a too- small diameter that would not permit the drain hose to slide inside. This AD requires inspection of the flight deck emergency escape hatch drain hose for discrepancies and applicable corrective actions, and prohibits accomplishment of maintenance actions using the instructions of certain maintenance tasks, as specified in a European Union Aviation Safety Agency (EASA) AD, which is incorporated by reference. The FAA is issuing this AD to address the unsafe condition on these products.",
+      "document_number": "2025-02492",
+      "html_url": "https://www.federalregister.gov/documents/2025/02/12/2025-02492/airworthiness-directives-atr-gie-avions-de-transport-rgional-airplanes",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-02-12/pdf/2025-02492.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-02492.pdf?1739281509",
+      "publication_date": "2025-02-12",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "parent_id": null,
+          "slug": "transportation-department"
+        },
+        {
+          "raw_name": "Federal Aviation Administration",
+          "name": "Federal Aviation Administration",
+          "id": 159,
+          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+          "parent_id": 492,
+          "slug": "federal-aviation-administration"
+        }
+      ],
+      "excerpts": "The FAA is adopting a new airworthiness directive (AD) for certain ATR--GIE Avions de Transport R[eacute]gional Model ATR42 and ATR72 airplanes. This AD was prompted by a report that a flight deck emergency escape hatch was difficult to open due to the..."
+    },
+    {
+      "title": "Airworthiness Directives; The Boeing Company Airplanes",
+      "type": "Rule",
+      "abstract": "The FAA is superseding Airworthiness Directive (AD) 2019-22- 02, which applied to all The Boeing Company Model 747-200B, 747-200C, 747-200F, 747-300, 747-400, 747-400D, 747-400F, 747-8F, and 747-8 series airplanes. AD 2019-22-02 required identifying the part number, and the serial number if applicable, of the Captain's and First Officer's seats, and applicable on-condition actions for affected seats. AD 2019-22-02 also required a one-time detailed inspection and repetitive checks of the horizontal movement system (HMS) of the Captain's and First Officer's seats, and applicable on-condition actions. This AD was prompted by reports of uncommanded fore and aft movement of the Captain's and First Officer's seats. This AD requires the actions in AD 2019-22-02 and adds an inspection of previously omitted part numbers. The FAA is issuing this AD to address the unsafe condition on these products.",
+      "document_number": "2025-02382",
+      "html_url": "https://www.federalregister.gov/documents/2025/02/12/2025-02382/airworthiness-directives-the-boeing-company-airplanes",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-02-12/pdf/2025-02382.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-02382.pdf?1739281508",
+      "publication_date": "2025-02-12",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "parent_id": null,
+          "slug": "transportation-department"
+        },
+        {
+          "raw_name": "Federal Aviation Administration",
+          "name": "Federal Aviation Administration",
+          "id": 159,
+          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+          "parent_id": 492,
+          "slug": "federal-aviation-administration"
+        }
+      ],
+      "excerpts": "The FAA is superseding Airworthiness Directive (AD) 2019-22- 02, which applied to all The Boeing Company Model 747-200B, 747-200C, 747-200F, 747-300, 747-400, 747-400D, 747-400F, 747-8F, and 747-8 series airplanes. AD 2019-22-02 required identifying..."
+    },
+    {
+      "title": "Modification of Class D and Class E Airspace; Abbotsford Airport, Abbotsford, BC",
+      "type": "Rule",
+      "abstract": "The FAA is correcting a final rule that published in the Federal Register on December 11, 2024. The final rule modified administrative portions of the Class D and Class E airspace legal descriptions for Abbotsford Airport, Abbotsford, BC. This action corrects errors in the Class D airspace legal description.",
+      "document_number": "2025-02460",
+      "html_url": "https://www.federalregister.gov/documents/2025/02/12/2025-02460/modification-of-class-d-and-class-e-airspace-abbotsford-airport-abbotsford-bc",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-02-12/pdf/2025-02460.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-02460.pdf?1739281508",
+      "publication_date": "2025-02-12",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "parent_id": null,
+          "slug": "transportation-department"
+        },
+        {
+          "raw_name": "Federal Aviation Administration",
+          "name": "Federal Aviation Administration",
+          "id": 159,
+          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+          "parent_id": 492,
+          "slug": "federal-aviation-administration"
+        }
+      ],
+      "excerpts": "The FAA is correcting a final rule that published in the Federal Register on December 11, 2024. The final rule modified administrative portions of the Class D and Class E airspace legal descriptions for Abbotsford Airport, Abbotsford, BC. This action..."
+    },
+    {
+      "title": "Airworthiness Directives; The Boeing Company Airplanes",
+      "type": "Proposed Rule",
+      "abstract": "The FAA proposes to supersede Airworthiness Directive (AD) 2019-12-13, which applies to all The Boeing Company Model 757 airplanes. AD 2019-12-13 requires repetitive checks of the aileron trim actuator bearing for free rotation, repetitive detailed inspections of the aileron trim actuator attachment lug for damage and cracking, and applicable on-condition actions. Since the FAA issued AD 2019-12-13, the FAA has determined that a modification must be done to address the unsafe condition. This proposed AD would continue to require the actions in AD 2019-12-13. This proposed AD would also require for certain airplanes changing the lateral control box support assembly and installing an aileron trim actuator bracket, and for certain other airplanes replacing the existing actuator lateral control fitting with an aileron trim actuator bracket, which terminates the repetitive checks and inspections. The FAA is proposing this AD to address the unsafe condition on these products.",
+      "document_number": "2025-02316",
+      "html_url": "https://www.federalregister.gov/documents/2025/02/12/2025-02316/airworthiness-directives-the-boeing-company-airplanes",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-02-12/pdf/2025-02316.pdf",
+      "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-02316.pdf?1739281508",
+      "publication_date": "2025-02-12",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "parent_id": null,
+          "slug": "transportation-department"
+        },
+        {
+          "raw_name": "Federal Aviation Administration",
+          "name": "Federal Aviation Administration",
+          "id": 159,
+          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+          "parent_id": 492,
+          "slug": "federal-aviation-administration"
+        }
+      ],
+      "excerpts": "The FAA proposes to supersede Airworthiness Directive (AD) 2019-12-13, which applies to all The Boeing Company Model 757 airplanes. AD 2019-12-13 requires repetitive checks of the aileron trim actuator bearing for free rotation, repetitive detailed..."
+    }
+  ]
+}

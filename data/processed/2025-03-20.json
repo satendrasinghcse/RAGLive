@@ -1,0 +1,7 @@
+{
+  "title": "Special Conditions: Canard Aerospace Corporation, DeHavilland Model DHC-8-400 Series Airplane; Electronic System Security Protection From Unauthorized External Access",
+  "abstract": "These special conditions are issued for a supplemental type certificate (STC) to install a digital systems architecture on the DeHavilland Model DHC-8-400 series airplane. This airplane, as modified by the Canard Aerospace Corporation (Canard), will have a novel or unusual design feature when compared to the state of technology envisioned in the airworthiness standards for transport-category airplanes. This design feature is the installation of a digital systems architecture that will allow increased connectivity to and access from external network sources (e.g., operator networks, wireless devices, internet connectivity, service provider satellite communications, electronic flight bags, etc.) to the airplane's previously isolated electronic assets (networks, systems, and databases). The applicable airworthiness regulations do not contain adequate or appropriate safety standards for this design feature. These special conditions contain the additional safety standards that the Administrator considers necessary to establish a level of safety equivalent to that established by the existing airworthiness standards.",
+  "type": "Rule",
+  "agencies_name": "Transportation Department",
+  "publication_date": "2025-03-20"
+}
