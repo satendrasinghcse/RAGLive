@@ -1,0 +1,12 @@
+python-dotenv
+groq
+aiofiles
+aiomysql
+aiohttp
+fastapi
+uvicorn
+streamlit
+flake8
+black
+apscheduler
+-e .
