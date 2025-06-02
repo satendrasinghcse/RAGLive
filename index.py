@@ -54,7 +54,7 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-st.title("🤖 RAG Agentic System")
+st.title("RAGLive")
 
 
 if "messages" not in st.session_state:
@@ -70,7 +70,7 @@ if user_input:
         data = response.json()
         bot_reply = data.get("response", "No response found.")
     except Exception as e:
-        bot_reply = f"❌ Error: {e}"
+        bot_reply = f"Error: {e}"
 
     st.session_state.messages.append(("bot", bot_reply))
 
