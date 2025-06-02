@@ -5,6 +5,7 @@ __pycache__/
 
 # C extensions
 *.so
+#env
 raglive_env
 # Distribution / packaging
 .Python
