@@ -5,7 +5,6 @@ from agent.llm import llm_runner
 
 app = FastAPI()
 
-# Allow frontend (Streamlit) to access the API
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],
@@ -13,13 +12,12 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-# Define message model
+
 class Message(BaseModel):
     user_message: str
 
 @app.post("/chat")
 async def chat(msg: Message):
-    # Simple rule-based response (replace with your own logic or LLM API)
     user_message = msg.user_message.lower()
 
     data = await llm_runner(user_message)

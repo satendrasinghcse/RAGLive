@@ -1,10 +1,8 @@
 import streamlit as st
 import requests
 
-# Page config
 st.set_page_config(page_title="RAG Agentic System", layout="centered")
 
-# Custom CSS for styling
 st.markdown(
     """
     <style>
@@ -58,17 +56,15 @@ st.markdown(
 
 st.title("🤖 RAG Agentic System")
 
-# Initialize chat history
+
 if "messages" not in st.session_state:
     st.session_state.messages = []
 
 user_input = st.text_input("You:", key="input")
 
 if user_input:
-    # Display user's message
     st.session_state.messages.append(("user", user_input))
 
-    # Send message to FastAPI backend
     try:
         response = requests.post("http://localhost:8000/chat", json={"user_message": user_input})
         data = response.json()
@@ -76,17 +72,14 @@ if user_input:
     except Exception as e:
         bot_reply = f"❌ Error: {e}"
 
-    # Display bot's reply
     st.session_state.messages.append(("bot", bot_reply))
 
-# Chat history display
 st.markdown('<div class="chat-container">', unsafe_allow_html=True)
 for role, message in st.session_state.messages:
     css_class = "message-user" if role == "user" else "message-bot"
     st.markdown(f'<div class="{css_class}">{message}</div>', unsafe_allow_html=True)
 st.markdown('</div>', unsafe_allow_html=True)
 
-# Footer
 st.markdown(
     """
     <div class="footer">
